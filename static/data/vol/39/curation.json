@@ -1,0 +1,1253 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/vol/39/curation.json",
+    "@type": "cr:Curation",
+    "label": "夕霧",
+    "selections": [
+        {
+            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/vol/39/curation.json#校異源氏物語",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/48#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1309",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1309-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/49#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1310",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1310-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/49#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1311",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1311-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/50#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1312",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1312-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/50#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1313",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1313-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/51#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1314",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1314-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/51#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1315",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1315-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/52#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1316",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1316-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/52#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1317",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1317-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/53#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1318",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1318-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/53#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1319",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1319-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/54#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1320",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1320-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/54#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1321",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1321-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/55#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1322",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1322-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/55#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1323",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1323-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/56#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1324",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1324-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/56#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1325",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1325-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/57#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1326",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1326-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/57#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1327",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1327-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/58#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1328",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1328-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/58#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1329",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1329-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/59#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1330",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1330-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/59#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1331",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1331-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/60#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1332",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1332-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/60#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1333",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1333-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/61#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1334",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1334-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/61#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1335",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1335-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/62#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1336",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1336-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/62#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1337",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1337-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/63#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1338",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1338-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/63#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1339",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1339-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/64#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1340",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1340-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/64#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1341",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1341-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/65#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1342",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1342-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/65#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1343",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1343-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/66#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1344",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1344-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/66#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1345",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1345-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/67#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1346",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1346-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/67#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1347",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1347-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/68#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1348",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1348-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/68#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1349",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1349-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/69#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1350",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1350-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/69#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1351",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1351-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/70#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1352",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1352-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/70#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1353",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1353-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/71#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1354",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1354-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/71#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1355",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1355-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/72#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1356",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1356-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/72#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1357",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1357-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/73#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1358",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1358-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/73#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1359",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1359-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/74#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1360",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1360-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/74#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1361",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1361-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/75#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1362",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1362-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/75#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1363",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1363-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/76#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1364",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1364-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/76#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1365",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1365-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/77#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1366",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1366-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/77#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1367",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1367-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/78#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1368",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1368-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/78#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1369",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1369-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/79#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1370",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1370-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/79#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1371",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1371-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/80#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1372",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1372-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/80#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1373",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1373-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/81#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1374",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1374-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/canvas/81#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1375",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1375-01.json"
+                }
+            ],
+            "within": {
+                "@id": "https://www.dl.ndl.go.jp/api/iiif/3437689/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "校異源氏物語"
+            }
+        },
+        {
+            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/vol/39/curation.json#九大本（古活字版）",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p3#xywh=448,79,49,670",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1309",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1309-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p5#xywh=444,79,49,670",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1310",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1310-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p7#xywh=408,82,50,662",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1311",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1311-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p9#xywh=365,79,49,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1312",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1312-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p11#xywh=320,79,49,669",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1313",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1313-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p13#xywh=325,79,49,668",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1314",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1314-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p15#xywh=364,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1315",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1315-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p17#xywh=320,79,49,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1316",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1316-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p19#xywh=277,79,49,669",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1317",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1317-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p21#xywh=271,79,49,674",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1318",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1318-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p23#xywh=286,79,48,668",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1319",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1319-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p25#xywh=277,79,49,668",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1320",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1320-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p27#xywh=278,79,45,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1321",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1321-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p29#xywh=275,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1322",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1322-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p31#xywh=235,79,48,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1323",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1323-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p33#xywh=235,80,49,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1324",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1324-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p35#xywh=195,79,48,673",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1325",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1325-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p37#xywh=150,79,48,673",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1326",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1326-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p39#xywh=151,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1327",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1327-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p41#xywh=106,79,49,674",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1328",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1328-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p43#xywh=66,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1329",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1329-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p45#xywh=61,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1330",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1330-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p47#xywh=22,79,45,667",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1331",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1331-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p49#xywh=18,79,48,667",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1332",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1332-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p52#xywh=454,79,48,667",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1333",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1333-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p54#xywh=454,79,49,669",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1334",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1334-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p56#xywh=460,79,48,674",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1335",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1335-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p58#xywh=449,79,50,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1336",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1336-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p60#xywh=455,79,49,669",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1337",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1337-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p62#xywh=452,79,49,668",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1338",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1338-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p64#xywh=412,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1339",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1339-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p66#xywh=412,79,49,666",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1340",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1340-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p68#xywh=369,79,45,669",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1341",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1341-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p70#xywh=372,79,49,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1342",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1342-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p72#xywh=320,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1343",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1343-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p74#xywh=320,79,49,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1344",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1344-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p76#xywh=274,79,49,674",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1345",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1345-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p78#xywh=279,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1346",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1346-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p80#xywh=275,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1347",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1347-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p82#xywh=234,76,46,664",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1348",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1348-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p84#xywh=317,79,49,673",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1349",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1349-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p86#xywh=318,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1350",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1350-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p88#xywh=317,80,45,669",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1351",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1351-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p90#xywh=324,79,49,674",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1352",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1352-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p92#xywh=274,79,49,670",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1353",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1353-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p94#xywh=281,79,50,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1354",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1354-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p96#xywh=190,82,48,664",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1355",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1355-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p98#xywh=185,79,49,669",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1356",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1356-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p100#xywh=193,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1357",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1357-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p102#xywh=224,79,50,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1358",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1358-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p104#xywh=185,79,49,674",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1359",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1359-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p106#xywh=145,79,49,675",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1360",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1360-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p108#xywh=181,79,45,675",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1361",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1361-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p110#xywh=184,79,49,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1362",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1362-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p112#xywh=135,79,48,676",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1363",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1363-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p114#xywh=99,79,49,673",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1364",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1364-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p116#xywh=100,79,49,673",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1365",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1365-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p118#xywh=99,79,49,675",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1366",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1366-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p120#xywh=138,79,49,671",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1367",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1367-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p122#xywh=142,79,49,674",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1368",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1368-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p124#xywh=94,79,49,668",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1369",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1369-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p126#xywh=94,79,49,668",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1370",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1370-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p128#xywh=97,79,45,677",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1371",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1371-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p130#xywh=96,79,49,676",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1372",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1372-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p132#xywh=99,79,48,673",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1373",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1373-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p134#xywh=139,79,49,672",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1374",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1374-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411244/canvas/p136#xywh=184,79,49,675",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1375",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1375-01.json"
+                }
+            ],
+            "within": {
+                "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/九大本（古活字版）/39/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "九大本（古活字版）"
+            }
+        },
+        {
+            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/vol/39/curation.json#九大本（無跋無刊記整版本）",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p2#xywh=591,177,56,813",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1309",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1309-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p4#xywh=550,199,30,784",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1310",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1310-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p6#xywh=415,177,52,821",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1311",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1311-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p8#xywh=367,177,56,819",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1312",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1312-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p10#xywh=249,177,56,823",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1313",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1313-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p12#xywh=185,177,56,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1314",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1314-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p14#xywh=247,177,56,811",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1315",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1315-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p16#xywh=189,177,56,821",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1316",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1316-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p18#xywh=127,177,56,831",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1317",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1317-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p20#xywh=71,177,56,817",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1318",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1318-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p22#xywh=32,233,32,750",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1319",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1319-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p25#xywh=671,177,57,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1320",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1320-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p27#xywh=673,177,52,831",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1321",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1321-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p29#xywh=621,177,56,827",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1322",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1322-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p31#xywh=559,177,56,829",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1323",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1323-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p33#xywh=505,177,56,829",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1324",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1324-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p35#xywh=451,177,56,807",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1325",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1325-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p37#xywh=327,177,57,819",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1326",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1326-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p39#xywh=277,177,56,815",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1327",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1327-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p41#xywh=207,177,56,827",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1328",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1328-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p43#xywh=155,177,56,819",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1329",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1329-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p45#xywh=101,177,57,827",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1330",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1330-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p48#xywh=537,177,52,827",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1331",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1331-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p50#xywh=483,177,56,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1332",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1332-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p52#xywh=303,177,56,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1333",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1333-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p54#xywh=309,177,56,831",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1334",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1334-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p56#xywh=251,177,56,815",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1335",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1335-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p58#xywh=253,177,56,827",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1336",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1336-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p60#xywh=187,177,56,823",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1337",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1337-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p62#xywh=198,193,42,796",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1338",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1338-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p64#xywh=85,177,56,817",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1339",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1339-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p66#xywh=21,177,57,817",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1340",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1340-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p69#xywh=671,177,52,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1341",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1341-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p71#xywh=563,177,56,823",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1342",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1342-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p73#xywh=499,177,56,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1343",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1343-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p75#xywh=505,177,56,829",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1344",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1344-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p77#xywh=389,177,56,819",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1345",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1345-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p79#xywh=387,177,57,815",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1346",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1346-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p81#xywh=331,177,56,827",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1347",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1347-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p83#xywh=335,177,56,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1348",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1348-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p85#xywh=445,177,56,817",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1349",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1349-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p87#xywh=459,177,57,823",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1350",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1350-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p89#xywh=443,177,52,819",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1351",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1351-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p91#xywh=443,177,56,819",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1352",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1352-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p93#xywh=391,177,56,817",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1353",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1353-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p95#xywh=383,177,56,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1354",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1354-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p97#xywh=271,177,56,815",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1355",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1355-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p99#xywh=277,177,56,813",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1356",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1356-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p101#xywh=333,177,56,815",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1357",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1357-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p103#xywh=387,177,56,815",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1358",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1358-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p105#xywh=281,177,56,817",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1359",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1359-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p107#xywh=221,177,57,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1360",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1360-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p109#xywh=219,177,52,819",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1361",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1361-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p111#xywh=163,177,56,823",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1362",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1362-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p113#xywh=95,177,56,811",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1363",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1363-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p116#xywh=601,177,56,821",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1364",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1364-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p118#xywh=589,177,56,821",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1365",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1365-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p120#xywh=600,177,57,820",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1366",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1366-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p121#xywh=93,177,56,811",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1367",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1367-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p124#xywh=587,177,56,821",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1368",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1368-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p126#xywh=529,177,56,821",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1369",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1369-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p128#xywh=483,177,59,815",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1370",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1370-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p130#xywh=485,177,52,823",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1371",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1371-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p132#xywh=475,177,56,825",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1372",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1372-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p134#xywh=434,195,50,776",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1373",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1373-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p136#xywh=434,207,38,774",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1374",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1374-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411303/canvas/p138#xywh=370,193,44,790",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1375",
+                    "line_id": "https://w3id.org/kouigenjimonogatari/data/1375-01.json"
+                }
+            ],
+            "within": {
+                "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/九大本（無跋無刊記整版本）/39/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "九大本（無跋無刊記整版本）"
+            }
+        }
+    ]
+}
