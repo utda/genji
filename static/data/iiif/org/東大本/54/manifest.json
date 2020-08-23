@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/manifest.json",
+    "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/manifest.json",
     "@type": "sc:Manifest",
     "label": "東大本",
     "description": "青洲文庫書名は帙題簽による\r\n巻次は題簽による\r\n責任表示は『日本古典籍総合目録データベース』による\r\n朱筆書き入れあり\r\n虫損あり\r\n旧請求記号 E23:48",
@@ -180,7 +180,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p3.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p3.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -223,7 +223,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p4.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p4.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -266,7 +266,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p5.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p5.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -309,7 +309,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p6.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p6.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -352,7 +352,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p7.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p7.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -395,7 +395,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p8.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p8.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -438,7 +438,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p9.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p9.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -481,7 +481,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p10.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p10.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -524,7 +524,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p11.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p11.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -567,7 +567,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p12.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p12.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -610,7 +610,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p13.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p13.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -653,7 +653,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p14.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p14.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -696,7 +696,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p15.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p15.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -739,7 +739,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p16.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p16.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -782,7 +782,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p17.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p17.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -825,7 +825,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p18.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p18.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -868,7 +868,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p19.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p19.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -911,7 +911,7 @@
                     ],
                     "otherContent": [
                         {
-                            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/東大本/54/list/p20.json",
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/54/list/p20.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]

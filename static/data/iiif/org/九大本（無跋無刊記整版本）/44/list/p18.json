@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/九大本（無跋無刊記整版本）/44/list/p18.json",
+    "@id": "https://utda.github.io/genji/data/iiif/org/九大本（無跋無刊記整版本）/44/list/p18.json",
     "@type": "sc:AnnotationList",
     "resources": [
         {
-            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/九大本（無跋無刊記整版本）/44/list/p18.json#1",
+            "@id": "https://utda.github.io/genji/data/iiif/org/九大本（無跋無刊記整版本）/44/list/p18.json#1",
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
             "on": [

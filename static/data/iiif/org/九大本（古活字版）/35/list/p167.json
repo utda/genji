@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/九大本（古活字版）/35/list/p167.json",
+    "@id": "https://utda.github.io/genji/data/iiif/org/九大本（古活字版）/35/list/p167.json",
     "@type": "sc:AnnotationList",
     "resources": [
         {
-            "@id": "https://genji.dl.itc.u-tokyo.ac.jp/data/iiif/org/九大本（古活字版）/35/list/p167.json#1",
+            "@id": "https://utda.github.io/genji/data/iiif/org/九大本（古活字版）/35/list/p167.json#1",
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
             "on": [
