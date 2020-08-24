@@ -118,7 +118,7 @@ module.exports = {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: `${ogpImages}home.jpg`,
+        content: `${ogpImages}home.png`,
       },
       /*
       {
