@@ -1,0 +1,441 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://utda.github.io/genji/iiif/kyushu-mu/top.json",
+    "@type": "sc:Collection",
+    "label": "九大本（無跋無刊記整版本）",
+    "manifests": [
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411265.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411265/372646.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411266.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411266/372702.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411267.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411267/372806.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411268.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411268/372830.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411269.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411269/372920.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411270.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411270/373020.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411271.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411271/373086.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411272.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411272/373146.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411273.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411273/373170.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411274.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411274/373262.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411275.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411275/373356.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411276.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411276/373366.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411277.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411277/373458.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411278.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411278/373536.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411279.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411279/373604.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411280.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411280/373650.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411281.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411281/373662.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411282.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411282/373704.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411283.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411283/373750.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411284.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411284/373816.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411285.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411285/373862.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411286.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411286/373962.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411287.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411287/374044.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411288.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411288/374076.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411289.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411289/374122.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411290.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411290/374164.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411291.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411291/374210.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411292.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411292/374220.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411293.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411293/374260.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411294.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411294/374320.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411295.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411295/374350.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411296.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411296/374422.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411297.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411297/374457.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411298.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411298/374508.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411299.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411299/374708.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411300.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411300/374912.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411301.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411301/374992.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411302.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411302/375032.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411303.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411303/375064.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411304.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411304/375206.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411305.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411305/375248.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411306.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411306/375294.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411307.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411307/375322.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411308.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411308/375350.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411309.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411309/375430.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411310.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411310/375508.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411311.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411311/375584.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411312.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411312/375754.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411313.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411313/375792.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411314.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411314/375962.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411315.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411315/376096.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411316.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411316/376232.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411317.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411317/376348.tiff/full/90,/0/default.jpg"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/820/411318.json",
+            "@type": "sc:Manifest",
+            "attribution": "Kyushu University Library Collections",
+            "label": "源氏物語",
+            "license": "https://www.lib.kyushu-u.ac.jp/reuse",
+            "thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/411318/376480.tiff/full/90,/0/default.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}
