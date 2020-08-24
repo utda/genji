@@ -4,6 +4,7 @@
 
     <v-content>
       <nuxt />
+      <Footer />
     </v-content>
 
     <v-btn
@@ -20,7 +21,6 @@
     >
       <v-icon>mdi-arrow-up</v-icon>
     </v-btn>
-    <Footer />
   </v-app>
 </template>
 

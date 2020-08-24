@@ -139,6 +139,7 @@ import axios from 'axios'
 export default {
   components: {},
   data: () => ({
+    baseUrl: process.env.BASE_URL,
     data: [],
   }),
   mounted() {
@@ -186,13 +187,13 @@ export default {
               vol,
               links: [
                 {
-                  thumbnail: 'assets/ndl.ico',
+                  thumbnail: this.baseUrl + '/assets/ndl.ico',
                   label: '校異源氏物語（国立国会図書館）',
                   value: metadataObj.ndl,
                   description: '',
                 },
                 {
-                  thumbnail: 'assets/json-ld-logo.png',
+                  thumbnail: this.baseUrl + '/assets/json-ld-logo.png',
                   label: '校異源氏物語テキストデータ（テキストDB）',
                   value: status.text
                     ? 'https://kouigenjimonogatari.github.io#' + vol
@@ -200,19 +201,19 @@ export default {
                   description: status.text ? '' : '作成中',
                 },
                 {
-                  thumbnail: 'assets/aozora.ico',
+                  thumbnail: this.baseUrl + '/assets/aozora.ico',
                   label: '現代語訳（青空文庫）',
                   value: metadataObj.aozora,
                   description: '',
                 },
                 {
-                  thumbnail: 'assets/tei.png',
+                  thumbnail: this.baseUrl + '/assets/tei.png',
                   label: '現代語訳（TEI）',
                   value: metadataObj.tei,
                   description: '',
                 },
                 {
-                  thumbnail: 'assets/jk.ico',
+                  thumbnail: this.baseUrl + '/assets/jk.ico',
                   label: '新編日本古典文学全集（JK）',
                   value: metadataObj.jk,
                   description: '',

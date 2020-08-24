@@ -34,16 +34,25 @@
             </b>
           </h1>
           <p>{{ $t('subtitle') }}</p>
-          <v-btn large class="mt-5" :to="{ name: 'main' }" color="primary">{{
-            $t('browse_image_and_text')
-          }}</v-btn>
+          <v-btn
+            large
+            class="mt-5"
+            :to="localePath({ name: 'main' })"
+            color="primary"
+            >{{ $t('browse_image_and_text') }}</v-btn
+          >
         </v-layout>
       </v-parallax>
     </section>
 
     <v-container>
       <v-alert type="info" class="my-5" text prominent>
-        2020-09-0X: 「Ver.YUMENOUKIHASHI」にアップデートしました。
+        2020-09-0X:
+        {{
+          $i18n.locale == 'ja'
+            ? '「Ver.YUMENOUKIHASHI」にアップデートしました。'
+            : ''
+        }}
       </v-alert>
 
       <v-row>
