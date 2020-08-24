@@ -15,11 +15,11 @@
                         "@type": "oa:Choice",
                         "default": {
                             "@type": "oa:FragmentSelector",
-                            "value": "xywh=3452,1626,17,921"
+                            "value": "xywh=2149,1531,36,1729"
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3460,1626c0,-12 6,-24 18,-36c0,-12 -6,-18 -18,-18c-12,0 -18,6 -18,18c12,12 18,24 18,36z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#A52A2A\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2167,1531c0,-22 11,-44 33,-66c0,-22 -11,-33 -33,-33c-22,0 -33,11 -33,33c22,22 33,44 33,66z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#A52A2A\"/></svg>"
                         }
                     },
                     "within": {

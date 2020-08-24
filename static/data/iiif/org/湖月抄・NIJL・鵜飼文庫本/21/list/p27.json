@@ -15,11 +15,11 @@
                         "@type": "oa:Choice",
                         "default": {
                             "@type": "oa:FragmentSelector",
-                            "value": "xywh=1103,2686,7,126"
+                            "value": "xywh=4349,1540,19,1686"
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1106,2686c0,-0 0,-0 0,-0c0,-0 -0,-0 -0,-0c-0,0 -0,0 -0,0c0,0 0,0 0,0z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#A52A2A\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4358,1540c0,-22 11,-44 33,-66c0,-22 -11,-33 -33,-33c-22,0 -33,11 -33,33c22,22 33,44 33,66z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#A52A2A\"/></svg>"
                         }
                     },
                     "within": {
@@ -30,7 +30,7 @@
             ],
             "resource": {
                 "@type": "dctypes:Text",
-                "chars": "源氏物語大成 p.686 開始位置<p><a href=\"http://dl.ndl.go.jp/info:ndljp/pid/3437687/152\" target=\"_blank\" rel=\"noopener noreferrer\">国立国会図書館デジタルコレクション</a>で校異源氏物語をみる</p>",
+                "chars": "源氏物語大成 p.685 開始位置<p><a href=\"http://dl.ndl.go.jp/info:ndljp/pid/3437687/152\" target=\"_blank\" rel=\"noopener noreferrer\">国立国会図書館デジタルコレクション</a>で校異源氏物語をみる</p>",
                 "format": "text/html"
             }
         }

@@ -846,13 +846,7 @@
                         }
                     ],
                     "label": "187",
-                    "width": 5616,
-                    "otherContent": [
-                        {
-                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/05/list/p25.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
+                    "width": 5616
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/188",
@@ -914,7 +908,13 @@
                         }
                     ],
                     "label": "189",
-                    "width": 5616
+                    "width": 5616,
+                    "otherContent": [
+                        {
+                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/05/list/p27.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/190",
@@ -1078,13 +1078,7 @@
                         }
                     ],
                     "label": "194",
-                    "width": 5616,
-                    "otherContent": [
-                        {
-                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/05/list/p32.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
+                    "width": 5616
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/195",
@@ -1214,7 +1208,13 @@
                         }
                     ],
                     "label": "198",
-                    "width": 5616
+                    "width": 5616,
+                    "otherContent": [
+                        {
+                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/05/list/p36.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/199",
@@ -1344,13 +1344,7 @@
                         }
                     ],
                     "label": "202",
-                    "width": 5616,
-                    "otherContent": [
-                        {
-                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/05/list/p40.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
+                    "width": 5616
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/203",
@@ -1514,7 +1508,13 @@
                         }
                     ],
                     "label": "207",
-                    "width": 5616
+                    "width": 5616,
+                    "otherContent": [
+                        {
+                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/05/list/p45.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/208",
@@ -1576,13 +1576,7 @@
                         }
                     ],
                     "label": "209",
-                    "width": 5616,
-                    "otherContent": [
-                        {
-                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/05/list/p47.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
+                    "width": 5616
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/210",
@@ -1780,7 +1774,13 @@
                         }
                     ],
                     "label": "215",
-                    "width": 5616
+                    "width": 5616,
+                    "otherContent": [
+                        {
+                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/05/list/p53.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/216",
@@ -1989,7 +1989,7 @@
             "label": "源氏物語大成 p.161"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/178#xywh=4383,1538,23,1728",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/178#xywh=4222,1497,19,1755",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/178"
@@ -1997,7 +1997,7 @@
             "label": "源氏物語大成 p.162"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/179#xywh=4133,2038,1,1",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/179#xywh=3710,1489,17,1753",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/179"
@@ -2005,7 +2005,7 @@
             "label": "源氏物語大成 p.163"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/180#xywh=3720,1487,17,1757",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/180#xywh=3401,1481,19,1072",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/180"
@@ -2013,7 +2013,7 @@
             "label": "源氏物語大成 p.164"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/181#xywh=3873,1493,21,1784",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/181#xywh=3381,1499,19,1780",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/181"
@@ -2021,7 +2021,7 @@
             "label": "源氏物語大成 p.165"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/182#xywh=3794,1558,7,440",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/182#xywh=3212,1495,21,1763",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/182"
@@ -2029,7 +2029,7 @@
             "label": "源氏物語大成 p.166"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/183#xywh=2538,1467,36,1819",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/183#xywh=2186,1519,35,1771",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/183"
@@ -2037,7 +2037,7 @@
             "label": "源氏物語大成 p.167"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/184#xywh=2526,1541,25,1715",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/184#xywh=1853,1630,23,1632",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/184"
@@ -2045,7 +2045,7 @@
             "label": "源氏物語大成 p.168"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/185#xywh=2282,2961,5,71",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/185#xywh=1678,1531,39,1721",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/185"
@@ -2053,7 +2053,7 @@
             "label": "源氏物語大成 p.169"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/186#xywh=2018,1539,60,1717",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/186#xywh=1143,1527,120,1737",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/186"
@@ -2061,23 +2061,23 @@
             "label": "源氏物語大成 p.170"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/187#xywh=1673,1519,32,1725",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/187"
-            ],
-            "label": "源氏物語大成 p.171"
-        },
-        {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/188#xywh=1305,1529,105,1753",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/188#xywh=4700,1407,21,1861",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/188"
             ],
+            "label": "源氏物語大成 p.171"
+        },
+        {
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/189#xywh=4367,1495,17,1767",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/189"
+            ],
             "label": "源氏物語大成 p.172"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/190#xywh=4470,1445,23,1807",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/190#xywh=3208,1507,35,1759",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/190"
@@ -2085,7 +2085,7 @@
             "label": "源氏物語大成 p.173"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/191#xywh=4351,1509,37,1774",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/191#xywh=3016,1475,25,1781",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/191"
@@ -2093,7 +2093,7 @@
             "label": "源氏物語大成 p.174"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/192#xywh=3788,1818,9,1106",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/192#xywh=2171,1501,40,1741",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/192"
@@ -2101,7 +2101,7 @@
             "label": "源氏物語大成 p.175"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/193#xywh=3865,1501,23,1735",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/193#xywh=1837,1473,31,1789",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/193"
@@ -2109,39 +2109,39 @@
             "label": "源氏物語大成 p.176"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/194#xywh=2982,1499,13,74",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/194"
-            ],
-            "label": "源氏物語大成 p.177"
-        },
-        {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/195#xywh=2518,1469,15,1807",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/195#xywh=4686,1517,31,1721",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/195"
             ],
-            "label": "源氏物語大成 p.178"
+            "label": "源氏物語大成 p.177"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/196#xywh=1508,1509,29,1747",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/196#xywh=4200,1507,73,1745",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/196"
             ],
-            "label": "源氏物語大成 p.179"
+            "label": "源氏物語大成 p.178"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/197#xywh=1357,1519,11,1759",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/197#xywh=3885,1519,33,1661",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/197"
             ],
+            "label": "源氏物語大成 p.179"
+        },
+        {
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/198#xywh=3038,1608,16,1622",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/198"
+            ],
             "label": "源氏物語大成 p.180"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/199#xywh=4607,2320,1,1",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/199#xywh=2329,1493,31,1765",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/199"
@@ -2149,7 +2149,7 @@
             "label": "源氏物語大成 p.181"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/200#xywh=3883,1507,33,1741",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/200#xywh=1510,1495,31,1767",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/200"
@@ -2157,7 +2157,7 @@
             "label": "源氏物語大成 p.182"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/201#xywh=4040,1515,38,1735",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/201#xywh=1010,1507,33,1735",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/201"
@@ -2165,47 +2165,47 @@
             "label": "源氏物語大成 p.183"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/202#xywh=3536,1491,18,1753",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/202"
-            ],
-            "label": "源氏物語大成 p.184"
-        },
-        {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/203#xywh=3379,1515,25,1741",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/203#xywh=4534,1521,32,1751",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/203"
             ],
-            "label": "源氏物語大成 p.185"
+            "label": "源氏物語大成 p.184"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/204#xywh=3363,1523,25,1729",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/204#xywh=4173,1550,98,1672",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/204"
             ],
-            "label": "源氏物語大成 p.186"
+            "label": "源氏物語大成 p.185"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/205#xywh=1915,2203,18,186",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/205#xywh=3528,1511,26,1715",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/205"
             ],
-            "label": "源氏物語大成 p.187"
+            "label": "源氏物語大成 p.186"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/206#xywh=1988,1505,47,1739",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/206#xywh=2867,1503,29,1723",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/206"
             ],
+            "label": "源氏物語大成 p.187"
+        },
+        {
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/207#xywh=2325,1511,31,1755",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/207"
+            ],
             "label": "源氏物語大成 p.188"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/208#xywh=4518,1519,15,1766",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/208#xywh=1000,1485,21,1706",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/208"
@@ -2213,28 +2213,20 @@
             "label": "源氏物語大成 p.189"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/209#xywh=3849,1487,19,1753",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/209"
-            ],
-            "label": "源氏物語大成 p.190"
-        },
-        {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/210#xywh=4432,2685,1,1",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/210#xywh=4510,1513,23,1774",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/210"
             ],
-            "label": "源氏物語大成 p.191"
+            "label": "源氏物語大成 p.190"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/211#xywh=4694,1493,27,1786",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/211#xywh=4196,1499,25,1782",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/211"
             ],
-            "label": "源氏物語大成 p.192"
+            "label": "源氏物語大成 p.191"
         },
         {
             "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/212#xywh=3671,1515,32,1731",
@@ -2242,21 +2234,29 @@
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/212"
             ],
-            "label": "源氏物語大成 p.193"
+            "label": "源氏物語大成 p.192"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/213#xywh=3845,1648,23,1628",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/213#xywh=3016,1515,33,1762",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/213"
             ],
-            "label": "源氏物語大成 p.194"
+            "label": "源氏物語大成 p.193"
         },
         {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/214#xywh=3591,3013,11,157",
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/214#xywh=2490,1491,29,1781",
             "@type": "sc:Range",
             "canvases": [
                 "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/214"
+            ],
+            "label": "源氏物語大成 p.194"
+        },
+        {
+            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/215#xywh=1790,1485,100,1771",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/215"
             ],
             "label": "源氏物語大成 p.195"
         }
