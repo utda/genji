@@ -93,7 +93,9 @@
             <v-icon>mdi-view-list</v-icon>
           </v-list-item-action>
           <v-list-item-content>
-            <v-list-item-title>{{ $t('iiif_collection') }}</v-list-item-title>
+            <v-list-item-title>{{
+              $t('iiif_genji_collection')
+            }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
 

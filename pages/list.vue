@@ -3,7 +3,7 @@
     <v-container>
       <v-card class="my-5">
         <v-card-title>
-          IIIF対応源氏物語リスト
+          {{ $t('iiif_genji_collection') }}
           <v-spacer></v-spacer>
           <v-btn
             color="primary"
@@ -12,7 +12,7 @@
               'https://www.kanzaki.com/works/2016/pub/image-annotator?u=' + url
             "
           >
-            Image Annotatorでみる
+            {{ $t('Image Annotatorでみる') }}
             <i class="fas fa-external-link-alt"></i>
           </v-btn>
         </v-card-title>
@@ -64,23 +64,34 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
+import { Component, Vue } from 'nuxt-property-decorator'
 import axios from 'axios'
 
-export default {
-  data: () => ({
-    headers: [
-      { text: '所蔵機関', value: 'attribution' },
-      { text: '刊写', value: 'type' },
-      { text: '冊数', value: 'volume' },
-      { text: '備考', value: 'note' },
-      { text: '利用条件', value: 'license' },
-      { text: '画像をみる', value: 'url' },
-    ],
-    desserts: [],
-    url: 'https://nakamura196.github.io/genji/collections/top.json',
-  }),
+@Component
+export default class List extends Vue {
+  head() {
+    return {
+      title: this.$t('iiif_genji_collection'),
+      titleTemplate: null,
+    }
+  }
+
+  headers: any[] = []
+
+  desserts: any[] = []
+  url: string = process.env.BASE_URL + '/iiif/collection/top.json'
+
   mounted() {
+    this.headers = [
+      { text: this.$t('所蔵機関'), value: 'attribution' },
+      { text: this.$t('刊写'), value: 'type' },
+      { text: this.$t('冊数'), value: 'volume' },
+      { text: this.$t('備考'), value: 'note' },
+      { text: this.$t('利用条件'), value: 'license' },
+      { text: this.$t('画像をみる'), value: 'url' },
+    ]
+
     axios.get(this.url).then((response) => {
       const result = response.data
       const collections = result.collections
@@ -96,6 +107,6 @@ export default {
         })
       }
     })
-  },
+  }
 }
 </script>
