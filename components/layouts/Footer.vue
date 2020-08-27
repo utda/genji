@@ -4,12 +4,7 @@
       <v-row>
         <v-col>
           <p class="text-center my-5">
-            <small
-              >本データベースはJSPS科研費<a
-                href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20626/"
-                >19K20626</a
-              >の助成による成果の一部です。</small
-            >
+            <small>{{ $t('acknowledgement') }}</small>
           </p>
         </v-col>
         <v-col>

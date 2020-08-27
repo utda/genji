@@ -43,17 +43,6 @@
             >
               {{ vol + 1 }} {{ infoMap[vol + 1] }} へ
             </v-btn>
-
-            <!-- 
-          <v-btn
-            target="_blank"
-            class="ma-2"
-            :href="'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation='+$route.params.curation+'&mode=annotation'"
-          >
-            Curation Viewerでみる
-            <i class="fas fa-external-link-alt"></i>
-          </v-btn>
-          -->
           </template>
         </v-card-title>
 
@@ -91,6 +80,26 @@
             </tr>
           </tbody>
         </v-simple-table>
+
+        <v-card-title>
+          <v-spacer></v-spacer>
+
+          <v-btn
+            target="_blank"
+            class="ma-2"
+            color="primary"
+            small
+            text
+            :href="
+              'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=' +
+              curationUri +
+              '&mode=annotation'
+            "
+          >
+            Curation Viewerでみる
+            <i class="fas fa-external-link-alt"></i>
+          </v-btn>
+        </v-card-title>
       </v-card>
     </div>
   </div>
@@ -120,6 +129,7 @@ export default {
           check: '新編日本古典文学全集',
         },
       },
+      curationUri: '',
     }
   },
   watch: {
@@ -159,6 +169,7 @@ export default {
         '/data/vol/' +
         ('0000000000' + vol).slice(-2) +
         '/curation.json'
+      this.curationUri = curationUri
 
       // const curationUri = this.$route.params.curation
 

@@ -4,21 +4,31 @@
       <v-dialog v-model="dialog" persistent width="600px">
         <v-card>
           <v-card-title>
-            <span class="headline my-5">「デジタル源氏物語」へようこそ</span>
+            <span class="headline my-5">{{ $t('welcome') }}</span>
           </v-card-title>
           <v-card-text>
-            <p>
-              東京大学総合図書館所蔵『源氏物語』の公開（2019年6月）を契機に、有志により「『源氏物語』研究にとって有意義なデジタル機能は何か」という検討が始まりました。その成果の一環として、ここに「デジタル源氏物語
-              - 源氏物語本文研究プラットフォームを目指して
-              -」を公開しました。当サイトでは『源氏物語』に関する様々な関連データを収集・作成し、それらを結びつけることで、『源氏物語』研究はもちろん、古典籍を利用した教育・研究活動の一助となる環境の提案を目指しています。また研究目的以外でも、『源氏物語』を広く楽しんでもらえるような機能の提供も視野に入れサイトの構築を進めています。
-            </p>
-            <p>
-              テキストデータには、著作権保護期間が満了し画像が公開されている『校異源氏物語』（中央公論社、1942年）を用いました。本文の頁数は戦後の『源氏物語大成』校異篇（中央公論社、1953-1954年）と同じです。
-            </p>
+            <template v-if="$i18n.locale === 'ja'">
+              <p>
+                {{ introJa }}
+              </p>
+              <p>
+                {{ noteJa }}
+              </p>
+            </template>
+            <template v-else>
+              <p>
+                {{ introEn }}
+              </p>
+              <p>
+                {{ noteEn }}
+              </p>
+            </template>
           </v-card-text>
           <v-card-actions>
             <v-spacer></v-spacer>
-            <v-btn color="secondary" @click="dialog = false">閉じる</v-btn>
+            <v-btn color="secondary" @click="dialog = false">{{
+              $t('close')
+            }}</v-btn>
           </v-card-actions>
         </v-card>
       </v-dialog>
@@ -47,12 +57,8 @@
 
     <v-container>
       <v-alert type="info" class="my-5" text prominent>
-        2020-09-0X:
-        {{
-          $i18n.locale == 'ja'
-            ? '「Ver.YUMENOUKIHASHI」にアップデートしました。'
-            : ''
-        }}
+        {{ news[0].date }}:
+        {{ news[0][$i18n.locale] }}
       </v-alert>
 
       <v-row>
@@ -63,9 +69,7 @@
                 {{ $t('about') }}
               </p>
               <div class="text--primary">
-                東京大学総合図書館所蔵『源氏物語』の公開（2019年6月）を契機に、有志により「『源氏物語』研究にとって有意義なデジタル機能は何か」という検討が始まりました。その成果の一環として、ここに「デジタル源氏物語
-                - 源氏物語本文研究プラットフォームを目指して
-                -」を公開しました。当サイトでは『源氏物語』に関する様々な関連データを収集・作成し、それらを結びつけることで、『源氏物語』研究はもちろん、古典籍を利用した教育・研究活動の一助となる環境の提案を目指しています。また研究目的以外でも、『源氏物語』を広く楽しんでもらえるような機能の提供も視野に入れサイトの構築を進めています。
+                {{ $i18n.locale == 'ja' ? introJa : introEn }}
               </div>
             </v-card-text>
           </v-card>
@@ -78,11 +82,9 @@
               </p>
               <div class="text--primary">
                 <ul>
-                  <li>
-                    2020-09-0X：「Ver.YUMENOUKIHASHI」にアップデートしました。
+                  <li v-for="(obj, index) in news" :key="index">
+                    {{ obj.date }}：{{ news[index][$i18n.locale] }}
                   </li>
-                  <li>2020-05-01：「Ver.OTOME」にアップデートしました。</li>
-                  <li>2019-11-30：「Ver.KIRITSUBO」を公開しました。</li>
                 </ul>
               </div>
             </v-card-text>
@@ -110,7 +112,7 @@
                   <tbody>
                     <tr class="py-2">
                       <td class="py-2">
-                        【画像】
+                        【{{ $t('image') }}】
                         <a
                           href="https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/genji/"
                           >東京大学総合図書館所蔵 源氏物語</a
@@ -120,13 +122,13 @@
                       <td>
                         <a
                           href="https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse"
-                          >CC BY相当</a
+                          >CC BY {{ $t('eq') }}</a
                         >
                       </td>
                     </tr>
                     <tr>
                       <td class="py-2">
-                        【画像】
+                        【{{ $t('image') }}】
                         <a href="http://hdl.handle.net/2324/411193"
                           >九州大学文学部所蔵 源氏物語 古活字版</a
                         >
@@ -140,7 +142,7 @@
                     </tr>
                     <tr>
                       <td class="py-2">
-                        【画像】
+                        【{{ $t('image') }}】
                         <a href="http://hdl.handle.net/2324/411265"
                           >個人蔵 源氏物語 無跋無刊記整版本</a
                         >
@@ -154,7 +156,7 @@
                     </tr>
                     <tr>
                       <td class="py-2">
-                        【画像】
+                        【{{ $t('image') }}】
                         <a href="https://kotenseki.nijl.ac.jp/biblio/200018258"
                           >国文学研究資料館 鵜飼文庫 湖月抄</a
                         >
@@ -168,7 +170,7 @@
                     </tr>
                     <tr>
                       <td class="py-2">
-                        【画像】
+                        【{{ $t('image') }}】
                         <a href="http://dl.ndl.go.jp/info:ndljp/pid/3437686"
                           >校異源氏物語</a
                         >
@@ -183,7 +185,7 @@
                     </tr>
                     <tr>
                       <td class="py-2">
-                        【テキストデータ】
+                        【{{ $t('text') }}】
                         <a href="https://w3id.org/kouigenjimonogatari/"
                           >校異源氏物語</a
                         >
@@ -198,7 +200,9 @@
                     </tr>
                     <tr>
                       <td class="py-2">
-                        【現代語訳】新編日本古典文学全集（小学館）－ 源氏物語
+                        【{{
+                          $t('modern-translation')
+                        }}】新編日本古典文学全集（小学館）－ 源氏物語
                       </td>
                       <td colspan="2">
                         ※JapanKnowledge（ジャパンナレッジ）上で公開されている資料を利用しています
@@ -206,23 +210,23 @@
                     </tr>
                     <tr>
                       <td class="py-2">
-                        【現代語訳】
+                        【{{ $t('modern-translation') }}】
                         <a
                           href="https://www.aozora.gr.jp/cards/000052/card362.html"
                           >源氏物語（与謝野晶子訳）</a
                         >
                       </td>
-                      <td>青空文庫</td>
+                      <td>{{ $t('aozora-buko') }}</td>
                       <td>
-                        <a href="https://www.aozora.gr.jp/guide/kijyunn.html"
-                          >自由利用可能</a
-                        >
+                        <a href="https://www.aozora.gr.jp/guide/kijyunn.html">{{
+                          $t('free-reuse')
+                        }}</a>
                       </td>
                     </tr>
                   </tbody>
                 </template>
               </v-simple-table>
-              <br />※テキストデータには、著作権保護期間が満了し画像が公開されている『校異源氏物語』（中央公論社、1942年）を用いました。本文の頁数は戦後の『源氏物語大成』校異篇（中央公論社、1953-1954年）と同じです。
+              <br />※ {{ $i18n.locale == 'ja' ? noteJa : noteEn }}
             </v-card-text>
           </v-card>
         </v-col>
@@ -404,6 +408,36 @@ export default class Page extends Vue {
   }
 
   dialog: boolean = false
+
+  introJa: string =
+    '東京大学総合図書館所蔵『源氏物語』の公開（2019年6月）を契機に、有志により「『源氏物語』研究にとって有意義なデジタル機能は何か」という検討が始まりました。その成果の一環として、ここに「デジタル源氏物語 - 源氏物語本文研究プラットフォームを目指して -」を公開しました。当サイトでは『源氏物語』に関する様々な関連データを収集・作成し、それらを結びつけることで、『源氏物語』研究はもちろん、古典籍を利用した教育・研究活動の一助となる環境の提案を目指しています。また研究目的以外でも、『源氏物語』を広く楽しんでもらえるような機能の提供も視野に入れサイトの構築を進めています。'
+
+  introEn: string =
+    'Volunteers began to consider "what are the meaningful digital functions for the study of "The Tale of Genji" with the opening of "The Tale of Genji" held by the University of Tokyo Library (June 2019). As part of that achievement, "Digital Tale of Genji - Aiming for a textual research platform for the Tale of Genji - " has been released. This site collects and creates various related data related to "The Tale of Genji" and links them together to propose an environment that helps not only research but also educational and research activities.'
+
+  noteJa: string =
+    'テキストデータには、著作権保護期間が満了し画像が公開されている『校異源氏物語』（中央公論社、1942年）を用いました。本文の頁数は戦後の『源氏物語大成』校異篇（中央公論社、1953-1954年）と同じです。'
+
+  noteEn: string =
+    'We used "校異源氏物語" (中央公論社, 1942), whose copyright protection period has expired. The number of pages in "校異源氏物語" is the same as "源氏物語大成" 校異編 (中央公論社, 1953-1954).'
+
+  news: any[] = [
+    {
+      date: '2020-09-0x',
+      ja: '「Ver.YUMENOUKIHASHI」にアップデートしました。',
+      en: 'Updated to "Ver.YUMENOUKIHASHI"',
+    },
+    {
+      date: '2020-05-01',
+      ja: '「Ver.OTOME」にアップデートしました。',
+      en: 'Updated to "Ver.OTOME"',
+    },
+    {
+      date: '2019-11-30',
+      ja: '「Ver.KIRITSUBO」を公開しました。',
+      en: 'Released "Ver.YUMENOUKIHASHI"',
+    },
+  ]
 
   mounted() {
     if (!sessionStorage.getItem('genji_intro')) {
