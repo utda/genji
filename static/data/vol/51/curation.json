@@ -536,12 +536,6 @@
                     "lineId": "https://w3id.org/kouigenjimonogatari/data/1867-01.json"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p11#xywh=1892,1220,44,2554",
-                    "@type": "sc:Canvas",
-                    "label": "源氏物語大成 p.1866",
-                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1866-01.json"
-                },
-                {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p11#xywh=3450,1388,43,2405",
                     "@type": "sc:Canvas",
                     "label": "新編日本古典文学全集 p.116"
@@ -723,8 +717,8 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p27#xywh=4876,1235,48,2569",
                     "@type": "sc:Canvas",
-                    "label": "源氏物語大成 p.1852",
-                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1852-01.json"
+                    "label": "源氏物語大成 p.1882",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1882-01.json"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p27#xywh=5107,1410,30,2394",
@@ -884,10 +878,21 @@
                     "label": "新編日本古典文学全集 p.153"
                 },
                 {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p40#xywh=1768,1277,46,2554",
+                    "@type": "sc:Canvas",
+                    "label": "源氏物語大成 p.1895",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1895-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p40#xywh=4360,1321,51,2556",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.154"
+                },
+                {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p41#xywh=1783,1255,38,2579",
                     "@type": "sc:Canvas",
-                    "label": "源氏物語大成 p.1869",
-                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1869-01.json"
+                    "label": "源氏物語大成 p.1896",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1896-01.json"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p41#xywh=5747,1267,43,2601",
@@ -1136,8 +1141,8 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p63#xywh=5454,1238,60,2563",
                     "@type": "sc:Canvas",
-                    "label": "源氏物語大成 p.1914",
-                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1914-01.json"
+                    "label": "源氏物語大成 p.1916",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1916-01.json"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p63#xywh=3063,1274,46,2477",
@@ -1267,11 +1272,6 @@
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p24#xywh=2269,1265,41,2540",
                     "@type": "sc:Canvas",
                     "label": "新編日本古典文学全集 p.134"
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p40#xywh=4360,1321,51,2556",
-                    "@type": "sc:Canvas",
-                    "label": "新編日本古典文学全集 p.154"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cbe1d687-0e67-6a9d-4394-b8e7947b00ac/canvas/p44#xywh=5045,1273,33,2563",

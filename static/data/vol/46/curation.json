@@ -659,9 +659,9 @@
                     "lineId": "https://w3id.org/kouigenjimonogatari/data/1580-01.json"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p40#xywh=1815,1322,51,2544",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p40#xywh=4447,1286,43,2541",
                     "@type": "sc:Canvas",
-                    "label": "新編日本古典文学全集 p.216"
+                    "label": "新編日本古典文学全集 p.217"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p41#xywh=4913,1267,36,2579",
@@ -670,9 +670,9 @@
                     "lineId": "https://w3id.org/kouigenjimonogatari/data/1581-01.json"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p41#xywh=3579,1311,41,2468",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p41#xywh=4913,1267,36,2579",
                     "@type": "sc:Canvas",
-                    "label": "新編日本古典文学全集 p.217"
+                    "label": "新編日本古典文学全集 p.218"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p11#xywh=4990,1273,46,2620",
@@ -688,6 +688,11 @@
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p22#xywh=3859,1267,53,2579",
                     "@type": "sc:Canvas",
                     "label": "新編日本古典文学全集 p.193"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p39#xywh=2741,1258,43,2589",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.216"
                 }
             ],
             "within": {

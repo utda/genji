@@ -110,13 +110,7 @@
                         }
                     ],
                     "label": "586",
-                    "width": 5616,
-                    "otherContent": [
-                        {
-                            "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄（国文研所蔵）/15/list/p3.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
+                    "width": 5616
                 },
                 {
                     "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/587",
@@ -1018,14 +1012,6 @@
     "viewingDirection": "right-to-left",
     "viewingHint": "paged",
     "structures": [
-        {
-            "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/586#xywh=2623,1461,39,1581",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/586"
-            ],
-            "label": "源氏物語大成 p.536"
-        },
         {
             "@id": "https://kotenseki.nijl.ac.jp/biblio/200018258/canvas/587#xywh=2675,1529,22,1711",
             "@type": "sc:Range",

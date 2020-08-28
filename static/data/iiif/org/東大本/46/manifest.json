@@ -1706,7 +1706,13 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "width": 6642
+                    "width": 6642,
+                    "otherContent": [
+                        {
+                            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/46/list/p39.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p40",
@@ -2502,12 +2508,12 @@
             "label": "源氏物語大成 p.1580"
         },
         {
-            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p40#xywh=1815,1322,51,2544",
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p40#xywh=4447,1286,43,2541",
             "@type": "sc:Range",
             "canvases": [
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p40"
             ],
-            "label": "新編日本古典文学全集 p.216"
+            "label": "新編日本古典文学全集 p.217"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p41#xywh=4913,1267,36,2579",
@@ -2518,12 +2524,12 @@
             "label": "源氏物語大成 p.1581"
         },
         {
-            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p41#xywh=3579,1311,41,2468",
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p41#xywh=4913,1267,36,2579",
             "@type": "sc:Range",
             "canvases": [
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p41"
             ],
-            "label": "新編日本古典文学全集 p.217"
+            "label": "新編日本古典文学全集 p.218"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p11#xywh=4990,1273,46,2620",
@@ -2548,6 +2554,14 @@
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p22"
             ],
             "label": "新編日本古典文学全集 p.193"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p39#xywh=2741,1258,43,2589",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de6bc095-7487-3523-0293-8dc17de66bb0/canvas/p39"
+            ],
+            "label": "新編日本古典文学全集 p.216"
         }
     ]
 }
