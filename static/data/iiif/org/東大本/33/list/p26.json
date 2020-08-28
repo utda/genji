@@ -15,6 +15,37 @@
                         "@type": "oa:Choice",
                         "default": {
                             "@type": "oa:FragmentSelector",
+                            "value": "xywh=3504,1128,272,2816"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3640,1128c0,-36 18,-72 54,-108c0,-36 -18,-54 -54,-54c-36,0 -54,18 -54,54c36,36 54,72 54,108z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#FF0000\" stroke=\"#FF0000\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "26コマ目以降で錯簡あり。31真木柱の783行目に続く。<p><a href=\"http://example.org\" target=\"_blank\" rel=\"noopener noreferrer\">脱文・錯簡リスト</p>",
+                "format": "text/html"
+            }
+        },
+        {
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/33/list/p26.json#2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p26",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
                             "value": "xywh=3819,1232,49,2582"
                         },
                         "item": {
