@@ -4,6 +4,7 @@
       v-model="drawer"
       app
       :permanent="!isMobile() ? true : false"
+      width="300"
     >
       <v-list>
         <v-list-item link :to="localePath({ name: 'index' })">
@@ -66,8 +67,7 @@
             "
           >
             <v-list-item-title>
-              新編日本古典
-              <br />文学全集
+              {{ $t('新編日本古典文学全集') }}
             </v-list-item-title>
           </v-list-item>
         </v-list-group>

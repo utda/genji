@@ -46,11 +46,11 @@
                         "@type": "oa:Choice",
                         "default": {
                             "@type": "oa:FragmentSelector",
-                            "value": "xywh=1664,1125,264,2864"
+                            "value": "xywh=1744,1503,50,2353"
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1796,1125c0,-38 19,-76 57,-114c0,-38 -19,-57 -57,-57c-38,0 -57,19 -57,57c38,38 57,76 57,114z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#2E89D9\" stroke=\"#2E89D9\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1769,1503c0,-30 15,-60 45,-90c0,-30 -15,-45 -45,-45c-30,0 -45,15 -45,45c30,30 45,60 45,90z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#2E89D9\" stroke=\"#2E89D9\"/></svg>"
                         }
                     },
                     "within": {

@@ -802,7 +802,7 @@
             }
         },
         {
-            "@id": "https://utda.github.io/genji/data/vol/01/curation.json#湖月抄・NIJL・鵜飼文庫本",
+            "@id": "https://utda.github.io/genji/data/vol/01/curation.json#湖月抄（国文研所蔵）",
             "@type": "sc:Range",
             "label": "Characters",
             "members": [
@@ -952,9 +952,9 @@
                 }
             ],
             "within": {
-                "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/01/manifest.json",
+                "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄（国文研所蔵）/01/manifest.json",
                 "@type": "sc:Manifest",
-                "label": "湖月抄・NIJL・鵜飼文庫本"
+                "label": "湖月抄（国文研所蔵）"
             }
         },
         {

@@ -559,7 +559,7 @@
                     "lineId": "https://w3id.org/kouigenjimonogatari/data/0230-01.json"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b019cdd-a43c-3671-3139-96c3918a356f/canvas/p35#xywh=3212,1284,40,2604",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b019cdd-a43c-3671-3139-96c3918a356f/canvas/p35#xywh=2989,1261,23,2560",
                     "@type": "sc:Canvas",
                     "label": "新編日本古典文学全集 p.306"
                 },
@@ -595,7 +595,7 @@
                     "label": "新編日本古典文学全集 p.298"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b019cdd-a43c-3671-3139-96c3918a356f/canvas/p36#xywh=3881,1292,21,1278",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b019cdd-a43c-3671-3139-96c3918a356f/canvas/p36#xywh=3628,1492,36,2268",
                     "@type": "sc:Canvas",
                     "label": "新編日本古典文学全集 p.307"
                 }
@@ -991,7 +991,7 @@
             }
         },
         {
-            "@id": "https://utda.github.io/genji/data/vol/06/curation.json#湖月抄・NIJL・鵜飼文庫本",
+            "@id": "https://utda.github.io/genji/data/vol/06/curation.json#湖月抄（国文研所蔵）",
             "@type": "sc:Range",
             "label": "Characters",
             "members": [
@@ -1177,9 +1177,9 @@
                 }
             ],
             "within": {
-                "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/06/manifest.json",
+                "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄（国文研所蔵）/06/manifest.json",
                 "@type": "sc:Manifest",
-                "label": "湖月抄・NIJL・鵜飼文庫本"
+                "label": "湖月抄（国文研所蔵）"
             }
         }
     ]

@@ -46,11 +46,11 @@
                         "@type": "oa:Choice",
                         "default": {
                             "@type": "oa:FragmentSelector",
-                            "value": "xywh=5020,1223,127,2515"
+                            "value": "xywh=3683,1235,36,1973"
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5083,1223c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#2E89D9\" stroke=\"#2E89D9\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3701,1235c0,-26 13,-52 39,-78c0,-26 -13,-39 -39,-39c-26,0 -39,13 -39,39c26,26 39,52 39,78z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#2E89D9\" stroke=\"#2E89D9\"/></svg>"
                         }
                     },
                     "within": {
@@ -62,37 +62,6 @@
             "resource": {
                 "@type": "dctypes:Text",
                 "chars": "新編日本古典文学全集 p.202 開始位置<p><a href=\"https://japanknowledge.com/lib/display/?lid=80110V00210202\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンナレッジ</a>でみる</p>",
-                "format": "text/html"
-            }
-        },
-        {
-            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/12/list/p35.json#3",
-            "@type": "oa:Annotation",
-            "motivation": "sc:painting",
-            "on": [
-                {
-                    "@type": "oa:SpecificResource",
-                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1e3ad9e7-30ca-3869-4561-e4a9ec8e74f3/canvas/p35",
-                    "selector": {
-                        "@type": "oa:Choice",
-                        "default": {
-                            "@type": "oa:FragmentSelector",
-                            "value": "xywh=1508,1214,31,2512"
-                        },
-                        "item": {
-                            "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1523,1214c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#2E89D9\" stroke=\"#2E89D9\"/></svg>"
-                        }
-                    },
-                    "within": {
-                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437687/manifest.json",
-                        "@type": "sc:Manifest"
-                    }
-                }
-            ],
-            "resource": {
-                "@type": "dctypes:Text",
-                "chars": "新編日本古典文学全集 p.203 開始位置<p><a href=\"https://japanknowledge.com/lib/display/?lid=80110V00210203\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンナレッジ</a>でみる</p>",
                 "format": "text/html"
             }
         }

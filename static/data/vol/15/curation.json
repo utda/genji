@@ -441,7 +441,7 @@
                     "lineId": "https://w3id.org/kouigenjimonogatari/data/0541-01.json"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2575aa8b-5670-89ac-1aea-831213bd8f30/canvas/p27#xywh=3978,1413,41,2395",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2575aa8b-5670-89ac-1aea-831213bd8f30/canvas/p27#xywh=3733,1315,55,2521",
                     "@type": "sc:Canvas",
                     "label": "新編日本古典文学全集 p.355"
                 },
@@ -763,7 +763,7 @@
             }
         },
         {
-            "@id": "https://utda.github.io/genji/data/vol/15/curation.json#湖月抄・NIJL・鵜飼文庫本",
+            "@id": "https://utda.github.io/genji/data/vol/15/curation.json#湖月抄（国文研所蔵）",
             "@type": "sc:Range",
             "label": "Characters",
             "members": [
@@ -913,9 +913,9 @@
                 }
             ],
             "within": {
-                "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄・NIJL・鵜飼文庫本/15/manifest.json",
+                "@id": "https://utda.github.io/genji/data/iiif/org/湖月抄（国文研所蔵）/15/manifest.json",
                 "@type": "sc:Manifest",
-                "label": "湖月抄・NIJL・鵜飼文庫本"
+                "label": "湖月抄（国文研所蔵）"
             }
         }
     ]

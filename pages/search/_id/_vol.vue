@@ -3,10 +3,9 @@
     <div class="container">
       <v-card>
         <v-card-title>
-          『{{ config[this.$route.params.id].label }}』<template
-            v-if="vol != -1"
-            >（{{ vol }} {{ jo }}）</template
-          >の頁数でさがす
+          {{ $t('browse_by_page') }} 『{{
+            $t(config[this.$route.params.id].label)
+          }}』<template v-if="vol != -1">（{{ vol }} {{ jo }}）</template>
           <v-spacer></v-spacer>
 
           <template v-if="vol != -1">
@@ -49,9 +48,9 @@
         <v-simple-table>
           <thead>
             <tr>
-              <th>頁数</th>
-              <th>画像をみる</th>
-              <th>並べて表示</th>
+              <th>{{ $t('pageNum') }}</th>
+              <th>{{ $t('画像をみる') }}</th>
+              <th>{{ $t('並べて比較') }}</th>
             </tr>
           </thead>
           <tbody>
@@ -96,7 +95,7 @@
               '&mode=annotation'
             "
           >
-            Curation Viewerでみる
+            {{ $t('Curation Viewerでみる') }}
             <i class="fas fa-external-link-alt"></i>
           </v-btn>
         </v-card-title>

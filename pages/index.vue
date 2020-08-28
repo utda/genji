@@ -66,7 +66,7 @@
           <v-card class="my-5">
             <v-card-text>
               <p class="display-1 text--primary text-center my-5">
-                {{ $t('about') }}
+                {{ $t('welcome') }}
               </p>
               <div class="text--primary">
                 {{ $i18n.locale == 'ja' ? introJa : introEn }}
@@ -78,7 +78,7 @@
           <v-card class="my-5">
             <v-card-text>
               <p class="display-1 text--primary text-center my-5">
-                {{ $t('お知らせ') }}
+                {{ $t('news') }}
               </p>
               <div class="text--primary">
                 <ul>
@@ -171,11 +171,11 @@
                     <tr>
                       <td class="py-2">
                         【{{ $t('image') }}】
-                        <a href="http://dl.ndl.go.jp/info:ndljp/pid/3437686"
-                          >校異源氏物語</a
-                        >
+                        <a href="http://dl.ndl.go.jp/info:ndljp/pid/3437686">{{
+                          $t('校異源氏物語')
+                        }}</a>
                       </td>
-                      <td>国立国会図書館</td>
+                      <td>{{ $t('国立国会図書館') }}</td>
                       <td>
                         <a
                           href="https://www.ndl.go.jp/jp/use/reproduction/index.html"
@@ -186,11 +186,11 @@
                     <tr>
                       <td class="py-2">
                         【{{ $t('text') }}】
-                        <a href="https://w3id.org/kouigenjimonogatari/"
-                          >校異源氏物語</a
-                        >
+                        <a href="https://w3id.org/kouigenjimonogatari/">{{
+                          $t('校異源氏物語')
+                        }}</a>
                       </td>
-                      <td>校異源氏物語テキストDB</td>
+                      <td>{{ $t('校異源氏物語テキストDB') }}</td>
                       <td>
                         <a
                           href="http://creativecommons.org/publicdomain/zero/1.0/"
@@ -200,9 +200,9 @@
                     </tr>
                     <tr>
                       <td class="py-2">
-                        【{{
-                          $t('modern-translation')
-                        }}】新編日本古典文学全集（小学館）－ 源氏物語
+                        【{{ $t('modern-translation') }}】{{
+                          $t('新編日本古典文学全集')
+                        }}（{{ $t('小学館') }}）－ {{ $t('源氏物語') }}
                       </td>
                       <td colspan="2">
                         ※JapanKnowledge（ジャパンナレッジ）上で公開されている資料を利用しています
@@ -234,7 +234,7 @@
           <v-card class="my-5">
             <v-card-text>
               <p class="display-1 text--primary text-center my-5">
-                活用ソフトウェア・サービス例
+                {{ $t('software_services') }}
               </p>
 
               <v-simple-table>

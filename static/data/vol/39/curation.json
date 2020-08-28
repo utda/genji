@@ -977,18 +977,12 @@
                     "lineId": "https://w3id.org/kouigenjimonogatari/data/1353-01.json"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p52#xywh=1310,1226,48,2554",
-                    "@type": "sc:Canvas",
-                    "label": "源氏物語大成 p.1354",
-                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1354-01.json"
-                },
-                {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p52#xywh=2205,1233,83,2534",
                     "@type": "sc:Canvas",
                     "label": "新編日本古典文学全集 p.458"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p53#xywh=1302,1207,71,2547",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p53#xywh=1538,1214,48,2563",
                     "@type": "sc:Canvas",
                     "label": "源氏物語大成 p.1354",
                     "lineId": "https://w3id.org/kouigenjimonogatari/data/1354-01.json"
@@ -999,18 +993,7 @@
                     "label": "新編日本古典文学全集 p.459"
                 },
                 {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p54#xywh=5451,1245,49,2423",
-                    "@type": "sc:Canvas",
-                    "label": "源氏物語大成 p.1356",
-                    "lineId": "https://w3id.org/kouigenjimonogatari/data/1356-01.json"
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p54#xywh=4348,1242,53,2553",
-                    "@type": "sc:Canvas",
-                    "label": "新編日本古典文学全集 p.460"
-                },
-                {
-                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p55#xywh=5238,1213,53,2490",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p55#xywh=5456,1200,48,2541",
                     "@type": "sc:Canvas",
                     "label": "源氏物語大成 p.1355",
                     "lineId": "https://w3id.org/kouigenjimonogatari/data/1355-01.json"
@@ -1294,6 +1277,11 @@
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p43#xywh=2413,1198,108,2560",
                     "@type": "sc:Canvas",
                     "label": "新編日本古典文学全集 p.446"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p54#xywh=4348,1242,53,2553",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.460"
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1c507ec6-65f9-7a80-4d6a-303187ef60f4/canvas/p64#xywh=5434,1181,51,2589",
