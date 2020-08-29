@@ -88,6 +88,17 @@
         </v-list-group>
         -->
 
+        <v-list-item link :to="localePath({ name: 'ds' })">
+          <v-list-item-action>
+            <v-icon>mdi-view-list</v-icon>
+          </v-list-item-action>
+          <v-list-item-content>
+            <v-list-item-title>{{
+              $t('東大本・脱文錯簡リスト')
+            }}</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+
         <v-list-item link :to="localePath({ name: 'list' })">
           <v-list-item-action>
             <v-icon>mdi-view-list</v-icon>

@@ -1,11 +1,13 @@
 <template>
-  <div class="my-5">
+  <div class="mb-5">
     <div class="container">
-      <v-card>
+      <v-card flat>
         <v-card-title>
-          {{ $t('browse_by_page') }} 『{{
-            $t(config[this.$route.params.id].label)
-          }}』<template v-if="vol != -1">（{{ vol }} {{ jo }}）</template>
+          <h2>
+            {{ $t('browse_by_page') }} 『{{
+              $t(config[this.$route.params.id].label)
+            }}』<template v-if="vol != -1">（{{ vol }} {{ jo }}）</template>
+          </h2>
           <v-spacer></v-spacer>
 
           <template v-if="vol != -1">
@@ -44,6 +46,15 @@
             </v-btn>
           </template>
         </v-card-title>
+
+        <v-alert
+          v-if="Object.keys(errs).length > 0"
+          type="warning"
+          class="my-5"
+          text
+        >
+          脱文・錯簡あり：{{ Object.keys(errs).join(', ') }}
+        </v-alert>
 
         <v-simple-table>
           <thead>
@@ -100,6 +111,42 @@
           </v-btn>
         </v-card-title>
       </v-card>
+
+      <v-card class="mt-10" flat outlined>
+        <v-container>
+          <h3>脱文・錯簡</h3>
+
+          <v-simple-table>
+            <thead>
+              <tr>
+                <th></th>
+                <th>{{ $t('imageNum') }}</th>
+                <th width="40%">{{ $t('explanation') }}</th>
+                <th>{{ $t('type') }}</th>
+                <th>{{ $t('画像をみる') }}</th>
+              </tr>
+            </thead>
+            <tbody>
+              <template v-for="(arr, org) in errs">
+                <tr v-for="(obj, index) in arr" :key="org + '-' + index">
+                  <td>{{ org }}</td>
+                  <td>{{ obj.page }}</td>
+                  <td>{{ obj.description }}</td>
+                  <td>{{ obj.type }}</td>
+                  <td>
+                    <a :href="obj.url" target="_blank">
+                      <img
+                        class="m-2"
+                        src="https://iiif.dl.itc.u-tokyo.ac.jp/images/mirador.png"
+                      />
+                    </a>
+                  </td>
+                </tr>
+              </template>
+            </tbody>
+          </v-simple-table>
+        </v-container>
+      </v-card>
     </div>
   </div>
 </template>
@@ -129,6 +176,7 @@ export default {
         },
       },
       curationUri: '',
+      errs: {},
     }
   },
   watch: {
@@ -174,6 +222,8 @@ export default {
 
       this.rows = []
 
+      const errs = {}
+
       axios.get(curationUri).then((response) => {
         const vol = Number(curationUri.split('/vol/')[1].split('/')[0])
         this.vol = vol
@@ -193,6 +243,29 @@ export default {
           for (let j = 0; j < members.length; j++) {
             const member = members[j]
             const label = member.label
+
+            if (label === '錯簡') {
+              const org = selection.within.label
+              if (!errs[org]) {
+                errs[org] = []
+              }
+              errs[org].push({
+                page: member['@id'].split('/p')[1].split('#xywh=')[0],
+                description: '説明が入ります。',
+                type: label,
+                url:
+                  'https://tei-eaj.github.io/parallel_text_viewer/app/mirador/?params=' +
+                  encodeURIComponent(
+                    JSON.stringify([
+                      {
+                        manifest: selection.within['@id'],
+                        canvas: member['@id'],
+                      },
+                    ])
+                  ) +
+                  '&annotationState=on',
+              })
+            }
 
             if (id === 'zenshu') {
               if (!label.includes(this.config[id].check)) {
@@ -246,6 +319,7 @@ export default {
         }
 
         this.pageMap = pageMap
+        this.errs = errs
       })
     },
   },

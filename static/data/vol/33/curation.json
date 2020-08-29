@@ -415,7 +415,17 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p26#xywh=3504,1128,272,2816",
                     "@type": "sc:Canvas",
-                    "label": "錯簡"
+                    "label": "錯簡",
+                    "metadata": [
+                        {
+                            "label": "url",
+                            "value": "http://example.org"
+                        },
+                        {
+                            "label": "description",
+                            "value": "26コマ目以降で錯簡あり。31真木柱の783行目に続く。"
+                        }
+                    ]
                 },
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p26#xywh=3819,1232,49,2582",
