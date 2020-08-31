@@ -19,7 +19,7 @@
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5719,1311c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#A52A2A\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5719,1311c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"F3AA00\"/></svg>"
                         }
                     },
                     "within": {
@@ -50,7 +50,7 @@
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1571,1325c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#A52A2A\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1571,1325c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"F3AA00\"/></svg>"
                         }
                     },
                     "within": {
@@ -67,6 +67,37 @@
         },
         {
             "@id": "https://utda.github.io/genji/data/iiif/org/東大本/49/list/p51.json#3",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5c412f9d-0220-8f63-64ae-ca93a2328b20/canvas/p51",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1456,1112,240,2888"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1576,1112c0,-38 19,-76 57,-114c0,-38 -19,-57 -57,-57c-38,0 -57,19 -57,57c38,38 57,76 57,114z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#FF0000\" stroke=\"#FF0000\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437690/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "左9行目「見くるしきを」と「給はむ」の間に本来なら入るはずの文章が脱落している。<p><a href=\"https://utda.github.io/genji/ds\" target=\"_blank\" rel=\"noopener noreferrer\">脱文錯簡リスト</p>",
+                "format": "text/html"
+            }
+        },
+        {
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/49/list/p51.json#4",
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
             "on": [
@@ -97,7 +128,7 @@
             }
         },
         {
-            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/49/list/p51.json#4",
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/49/list/p51.json#5",
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
             "on": [
@@ -128,7 +159,7 @@
             }
         },
         {
-            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/49/list/p51.json#5",
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/49/list/p51.json#6",
             "@type": "oa:Annotation",
             "motivation": "sc:painting",
             "on": [

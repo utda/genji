@@ -63,6 +63,50 @@ export default class List extends Vue {
     ]
 
     axios.get(this.url).then((response) => {
+      const curation = response.data
+      const selections = curation.selections
+
+      for (let i = 0; i < selections.length; i++) {
+        const selection = selections[i]
+        const members = selection.members
+
+        for (let j = 0; j < members.length; j++) {
+          const member = members[j]
+
+          const memberId = member['@id']
+
+          const metadata = member.metadata
+          const map: any = {}
+
+          for (let k = 0; k < metadata.length; k++) {
+            const m = metadata[k]
+            map[m.label] = m.value
+          }
+
+          const param = [
+            {
+              manifest:
+                process.env.BASE_URL +
+                '/data/iiif/org/東大本/' +
+                ('00' + Number(map.Vol)).slice(-2) +
+                '/manifest.json',
+              canvas: memberId,
+            },
+          ]
+
+          this.desserts.push({
+            vol: map.Vol,
+            title: map.Title,
+            imageNum: map.Page,
+            description: map.Text,
+            type: map.Type,
+            url:
+              'https://tei-eaj.github.io/parallel_text_viewer/app/mirador/?params=' +
+              encodeURIComponent(JSON.stringify(param)) +
+              '&annotationState=on', // data.url,
+          })
+        }
+      }
       const result: any = Object.values(response.data)[0]
       for (const vol in result) {
         const obj = result[vol]

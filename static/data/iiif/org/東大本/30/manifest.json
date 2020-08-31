@@ -1093,6 +1093,14 @@
             "label": "源氏物語大成 p.927"
         },
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/02e45c9c-8003-017b-4e63-0c8919ca36a2/canvas/p15#xywh=2768,1136,240,2832",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/02e45c9c-8003-017b-4e63-0c8919ca36a2/canvas/p15"
+            ],
+            "label": "脱文・錯簡"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/02e45c9c-8003-017b-4e63-0c8919ca36a2/canvas/p15#xywh=2867,1258,38,2531",
             "@type": "sc:Range",
             "canvases": [

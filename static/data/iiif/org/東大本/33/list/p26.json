@@ -15,11 +15,11 @@
                         "@type": "oa:Choice",
                         "default": {
                             "@type": "oa:FragmentSelector",
-                            "value": "xywh=3504,1128,272,2816"
+                            "value": "xywh=3512,1104,272,2864"
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3640,1128c0,-36 18,-72 54,-108c0,-36 -18,-54 -54,-54c-36,0 -54,18 -54,54c36,36 54,72 54,108z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#FF0000\" stroke=\"#FF0000\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3648,1104c0,-38 19,-76 57,-114c0,-38 -19,-57 -57,-57c-38,0 -57,19 -57,57c38,38 57,76 57,114z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#FF0000\" stroke=\"#FF0000\"/></svg>"
                         }
                     },
                     "within": {
@@ -30,7 +30,7 @@
             ],
             "resource": {
                 "@type": "dctypes:Text",
-                "chars": "26コマ目以降で錯簡あり。31真木柱の783行目に続く。<p><a href=\"http://example.org\" target=\"_blank\" rel=\"noopener noreferrer\">脱文・錯簡リスト</p>",
+                "chars": "巻31「真木柱」42コマ左に続く。<p><a href=\"https://utda.github.io/genji/ds\" target=\"_blank\" rel=\"noopener noreferrer\">脱文錯簡リスト</p>",
                 "format": "text/html"
             }
         },

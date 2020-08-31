@@ -2718,6 +2718,14 @@
             "label": "源氏物語大成 p.341"
         },
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0590814b-938f-0f7d-4984-a6d74cce6f5f/canvas/p13#xywh=3424,824,1592,3848",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0590814b-938f-0f7d-4984-a6d74cce6f5f/canvas/p13"
+            ],
+            "label": "脱文・錯簡"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0590814b-938f-0f7d-4984-a6d74cce6f5f/canvas/p13#xywh=4013,1070,75,3030",
             "@type": "sc:Range",
             "canvases": [

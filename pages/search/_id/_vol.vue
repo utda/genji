@@ -112,7 +112,7 @@
         </v-card-title>
       </v-card>
 
-      <v-card class="mt-10" flat outlined>
+      <v-card v-if="Object.keys(errs).length > 0" class="mt-10" flat outlined>
         <v-container>
           <h3>脱文・錯簡</h3>
 
@@ -131,7 +131,7 @@
                 <tr v-for="(obj, index) in arr" :key="org + '-' + index">
                   <td>{{ org }}</td>
                   <td>{{ obj.page }}</td>
-                  <td>{{ obj.description }}</td>
+                  <td><div class="py-2" v-html="obj.description" /></td>
                   <td>{{ obj.type }}</td>
                   <td>
                     <a :href="obj.url" target="_blank">
@@ -244,15 +244,24 @@ export default {
             const member = members[j]
             const label = member.label
 
-            if (label === '錯簡') {
+            if (label === '脱文・錯簡') {
               const org = selection.within.label
               if (!errs[org]) {
                 errs[org] = []
               }
+
+              const map = {}
+              const metadata = member.metadata
+
+              for (let k = 0; k < metadata.length; k++) {
+                const m = metadata[k]
+                map[m.label] = m.value
+              }
+
               errs[org].push({
-                page: member['@id'].split('/p')[1].split('#xywh=')[0],
-                description: '説明が入ります。',
-                type: label,
+                page: map.Page,
+                description: map.Text,
+                type: map.Type,
                 url:
                   'https://tei-eaj.github.io/parallel_text_viewer/app/mirador/?params=' +
                   encodeURIComponent(
