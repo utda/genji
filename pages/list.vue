@@ -1,19 +1,20 @@
 <template>
   <div>
     <v-container>
-      <v-card class="my-5">
+      <v-card class="my-5" flat>
         <v-card-title>
-          {{ $t('iiif_genji_collection') }}
+          <h2>
+            {{ $t('iiif_genji_collection') }}
+          </h2>
           <v-spacer></v-spacer>
           <v-btn
-            color="primary"
             target="_blank"
             :href="
               'https://www.kanzaki.com/works/2016/pub/image-annotator?u=' + url
             "
           >
             {{ $t('Image Annotatorでみる') }}
-            <i class="fas fa-external-link-alt"></i>
+            <i class="mdi mdi-open-in-new"></i>
           </v-btn>
         </v-card-title>
 

@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-container>
-      <v-card class="my-5">
+      <v-card class="my-5" flat>
         <v-card-text>
           <p class="display-1 text--primary text-center my-5">
             {{ $t('about') }}
@@ -31,7 +31,7 @@
 
       <br />
 
-      <v-card class="my-5">
+      <v-card class="my-5" flat>
         <v-card-text>
           <p class="display-1 text--primary text-center my-5">全般</p>
           <div class="text--primary">
@@ -48,7 +48,7 @@
 
       <br />
 
-      <v-card class="my-5">
+      <v-card class="my-5" flat>
         <v-card-text>
           <p class="display-1 text--primary text-center my-5">
             画像とテキストを一緒にみる
@@ -80,7 +80,7 @@
 
       <br />
 
-      <v-card class="my-5">
+      <v-card class="my-5" flat>
         <v-card-text>
           <p class="display-1 text--primary text-center my-5">その他の機能</p>
           <div class="text--primary">
@@ -98,7 +98,7 @@
 
       <br />
 
-      <v-card class="my-5">
+      <v-card class="my-5" flat>
         <v-card-text>
           <div class="text--primary">
             <div>

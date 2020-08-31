@@ -1,36 +1,53 @@
 <template>
   <div>
     <v-container>
-      <h2 class="my-5">東大本・脱文錯簡リスト</h2>
-
-      <p>
-        東大本の画像に『校異源氏物語』及び『新編日本古典文学全集』の頁番号を付与していく過程で、これら両書の本文との比較において、東大本に本文の脱落や錯簡（綴じ違いなどで、頁の順序が乱れていること）が起こっていると判断される箇所が複数見つかりました。以下がその一覧です。なお、該当箇所の画像にも「脱文・錯簡あり」のアイコンを表示し、説明を付しています。
-      </p>
-
-      <v-data-table
-        :headers="headers"
-        :items="desserts"
-        :items-per-page="-1"
-        class="mt-5"
-      >
-        <template v-slot:item.description="{ item }">
-          <div class="py-2" v-html="item.description" />
-        </template>
-        <template v-slot:item.url="{ item }">
-          <a
+      <v-card flat>
+        <v-card-title>
+          <h2 class="my-5">東大本・脱文錯簡リスト</h2>
+          <v-spacer></v-spacer>
+          <v-btn
             target="_blank"
+            class="ma-2"
             :href="
-              //'http://universalviewer.io/examples/uv/uv.html#?manifest=' +
-              item.url
+              'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=' +
+              url +
+              '&mode=annotation'
             "
           >
-            <img
-              class="m-2"
-              src="https://iiif.dl.itc.u-tokyo.ac.jp/images/mirador.png"
-            />
-          </a>
-        </template>
-      </v-data-table>
+            {{ $t('Curation Viewerでみる') }}
+            <i class="mdi mdi-open-in-new"></i>
+          </v-btn>
+        </v-card-title>
+
+        <p>
+          東大本の画像に『校異源氏物語』及び『新編日本古典文学全集』の頁番号を付与していく過程で、これら両書の本文との比較において、東大本に本文の脱落や錯簡（綴じ違いなどで、頁の順序が乱れていること）が起こっていると判断される箇所が複数見つかりました。以下がその一覧です。なお、該当箇所の画像にも「脱文・錯簡あり」のアイコンを表示し、説明を付しています。
+        </p>
+
+        <v-data-table
+          :headers="headers"
+          :items="desserts"
+          :items-per-page="-1"
+          class="mt-5"
+        >
+          <template v-slot:item.description="{ item }">
+            <div class="py-2" v-html="item.description" />
+          </template>
+          <template v-slot:item.url="{ item }">
+            <a
+              target="_blank"
+              :href="
+                //'http://universalviewer.io/examples/uv/uv.html#?manifest=' +
+                item.url
+              "
+            >
+              <img
+                class="m-2"
+                src="https://iiif.dl.itc.u-tokyo.ac.jp/images/mirador.png"
+              />
+            </a>
+          </template>
+        </v-data-table>
+      </v-card>
     </v-container>
   </div>
 </template>

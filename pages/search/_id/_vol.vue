@@ -97,9 +97,7 @@
           <v-btn
             target="_blank"
             class="ma-2"
-            color="primary"
             small
-            text
             :href="
               'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=' +
               curationUri +
@@ -107,14 +105,14 @@
             "
           >
             {{ $t('Curation Viewerでみる') }}
-            <i class="fas fa-external-link-alt"></i>
+            <i class="mdi mdi-open-in-new"></i>
           </v-btn>
         </v-card-title>
       </v-card>
 
-      <v-card v-if="Object.keys(errs).length > 0" class="mt-10" flat outlined>
+      <v-card v-if="Object.keys(errs).length > 0" class="mt-10" flat>
         <v-container>
-          <h3>脱文・錯簡</h3>
+          <h3 class="error--text">脱文・錯簡</h3>
 
           <v-simple-table>
             <thead>
