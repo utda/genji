@@ -19,7 +19,7 @@
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3340,1144c0,-38 19,-76 57,-114c0,-38 -19,-57 -57,-57c-38,0 -57,19 -57,57c38,38 57,76 57,114z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#FF0000\" stroke=\"#FF0000\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3340 1056.280701754386 l-50.0 87.71929824561404 l100 0 z\" id=\"pin_abc3\" fill-opacity=\"0.5\" fill=\"#FF0000\" stroke=\"#FF0000\"/></svg>"
                         }
                     },
                     "within": {
@@ -30,7 +30,7 @@
             ],
             "resource": {
                 "@type": "dctypes:Text",
-                "chars": "<p>錯簡・脱文</p><p>左1行目以降巻末までが、本来は巻33「藤裏葉」の巻末に該当する。<br/>また、42コマ右最終行は「真木柱」の最後の部分だが、「いそつたいせすとてはしたなかめりとや」の一文が脱落している。</p><p><a href=\"https://utda.github.io/genji/ds\" target=\"_blank\" rel=\"noopener noreferrer\">脱文錯簡リスト</p>",
+                "chars": "錯簡・脱文<p>左1行目以降巻末までが、本来は巻33「藤裏葉」の巻末に該当する。<br/>また、42コマ右最終行は「真木柱」の最後の部分だが、「いそつたいせすとてはしたなかめりとや」の一文が脱落している。</p><p><a href=\"https://utda.github.io/genji/ds\" target=\"_blank\" rel=\"noopener noreferrer\">脱文錯簡リスト</p>",
                 "format": "text/html"
             }
         }
