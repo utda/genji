@@ -19,7 +19,7 @@
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4851,1238c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"F3AA00\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4851,1238c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#F3AA00\"/></svg>"
                         }
                     },
                     "within": {
@@ -50,7 +50,7 @@
                         },
                         "item": {
                             "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2413,1249c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"F3AA00\"/></svg>"
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2413,1249c0,-32 16,-64 48,-96c0,-32 -16,-48 -48,-48c-32,0 -48,16 -48,48c32,32 48,64 48,96z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#F3AA00\"/></svg>"
                         }
                     },
                     "within": {
@@ -61,7 +61,7 @@
             ],
             "resource": {
                 "@type": "dctypes:Text",
-                "chars": "<div><b>【脱文あり】</b></div>源氏物語大成 p.594 開始位置<p><a href=\"http://dl.ndl.go.jp/info:ndljp/pid/3437687/107\" target=\"_blank\" rel=\"noopener noreferrer\">国立国会図書館デジタルコレクション</a>で校異源氏物語をみる</p>",
+                "chars": "源氏物語大成 p.594 開始位置<p><a href=\"http://dl.ndl.go.jp/info:ndljp/pid/3437687/107\" target=\"_blank\" rel=\"noopener noreferrer\">国立国会図書館デジタルコレクション</a>で校異源氏物語をみる</p>",
                 "format": "text/html"
             }
         },
