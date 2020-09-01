@@ -118,7 +118,8 @@ export default class List extends Vue {
             description: map.Text,
             type: map.Type,
             url:
-              'https://tei-eaj.github.io/parallel_text_viewer/app/mirador/?params=' +
+              process.env.BASE_URL +
+              '/mirador/?params=' +
               encodeURIComponent(JSON.stringify(param)) +
               '&annotationState=on', // data.url,
           })

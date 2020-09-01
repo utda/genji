@@ -9,7 +9,7 @@
         </v-col>
         <v-col>
           <p class="my-5">
-            {{ $t('contact') }}
+            {{ $t('suishin') }}
             <br />digital-archive [at] lib.u-tokyo.ac.jp
           </p>
         </v-col>

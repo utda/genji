@@ -27,6 +27,9 @@
         -->
 
         <v-list-item link :to="localePath({ name: 'main' })">
+          <v-list-item-action>
+            <v-icon>mdi-book-search</v-icon>
+          </v-list-item-action>
           <v-list-item-content>
             <v-list-item-title>{{
               $t('browse_image_and_text')
@@ -88,17 +91,6 @@
         </v-list-group>
         -->
 
-        <v-list-item link :to="localePath({ name: 'ds' })">
-          <v-list-item-action>
-            <v-icon>mdi-view-list</v-icon>
-          </v-list-item-action>
-          <v-list-item-content>
-            <v-list-item-title>{{
-              $t('東大本・脱文錯簡リスト')
-            }}</v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-
         <v-list-item link :to="localePath({ name: 'list' })">
           <v-list-item-action>
             <v-icon>mdi-view-list</v-icon>
@@ -106,6 +98,17 @@
           <v-list-item-content>
             <v-list-item-title>{{
               $t('iiif_genji_collection')
+            }}</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+
+        <v-list-item link :to="localePath({ name: 'ds' })">
+          <v-list-item-action>
+            <v-icon>mdi-alert</v-icon>
+          </v-list-item-action>
+          <v-list-item-content>
+            <v-list-item-title>{{
+              $t('東大本・脱文錯簡リスト')
             }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>

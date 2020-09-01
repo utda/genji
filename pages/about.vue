@@ -2,10 +2,12 @@
   <div>
     <v-container>
       <v-card class="my-5" flat>
-        <v-card-text>
-          <p class="display-1 text--primary text-center my-5">
+        <v-card-title>
+          <h2>
             {{ $t('about') }}
-          </p>
+          </h2>
+        </v-card-title>
+        <v-card-text>
           <div class="text--primary">
             <template v-if="$i18n.locale == 'ja'">
               デジタル源氏物語では、インターネット上に一般公開されている『源氏物語』の画像や関連データを用い、以下のシステムを構築しています。
@@ -29,11 +31,13 @@
         </v-card-text>
       </v-card>
 
-      <br />
-
       <v-card class="my-5" flat>
+        <v-card-title>
+          <h3>
+            {{ $t('overview') }}
+          </h3>
+        </v-card-title>
         <v-card-text>
-          <p class="display-1 text--primary text-center my-5">全般</p>
           <div class="text--primary">
             このサイトの翻刻文は、国立国会図書館デジタルコレクションで公開されている
             <a href="http://dl.ndl.go.jp/info:ndljp/pid/3437686"
@@ -46,13 +50,13 @@
         </v-card-text>
       </v-card>
 
-      <br />
-
       <v-card class="my-5" flat>
+        <v-card-title>
+          <h3>
+            {{ $t('browse_image_and_text') }}
+          </h3>
+        </v-card-title>
         <v-card-text>
-          <p class="display-1 text--primary text-center my-5">
-            画像とテキストを一緒にみる
-          </p>
           <div class="text--primary">
             <ul>
               <li>
@@ -78,11 +82,13 @@
         </v-card-text>
       </v-card>
 
-      <br />
-
       <v-card class="my-5" flat>
+        <v-card-title>
+          <h3>
+            {{ $t('other') }}
+          </h3>
+        </v-card-title>
         <v-card-text>
-          <p class="display-1 text--primary text-center my-5">その他の機能</p>
           <div class="text--primary">
             <ul>
               <li>
@@ -96,7 +102,7 @@
         </v-card-text>
       </v-card>
 
-      <br />
+      <v-divider />
 
       <v-card class="my-5" flat>
         <v-card-text>
@@ -124,8 +130,6 @@
           </div>
         </v-card-text>
       </v-card>
-
-      <br />
     </v-container>
   </div>
 </template>

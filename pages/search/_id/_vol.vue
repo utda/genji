@@ -261,7 +261,8 @@ export default {
                 description: map.Text,
                 type: map.Type,
                 url:
-                  'https://tei-eaj.github.io/parallel_text_viewer/app/mirador/?params=' +
+                  this.baseUrl +
+                  '/mirador/?params=' +
                   encodeURIComponent(
                     JSON.stringify([
                       {
@@ -295,7 +296,8 @@ export default {
               canvas: member['@id'],
               label: selection.within.label,
               url:
-                'https://tei-eaj.github.io/parallel_text_viewer/app/mirador/?params=' +
+                this.baseUrl +
+                '/mirador/?params=' +
                 encodeURIComponent(
                   JSON.stringify([
                     {
@@ -320,9 +322,10 @@ export default {
             })
           }
           pageMap[page].comp_url =
-            'https://tei-eaj.github.io/parallel_text_viewer/app/mirador/?params=' +
+            this.baseUrl +
+            '/mirador/?params=' +
             encodeURIComponent(JSON.stringify(params)) +
-            '&annotationState=on'
+            '&annotationState=on&sidePanel=false'
         }
 
         this.pageMap = pageMap

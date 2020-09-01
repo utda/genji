@@ -4,7 +4,7 @@
       <v-dialog v-model="dialog" persistent width="600px">
         <v-card>
           <v-card-title>
-            <span class="headline my-5">{{ $t('welcome') }}</span>
+            <h3>{{ $t('welcome') }}</h3>
           </v-card-title>
           <v-card-text>
             <template v-if="$i18n.locale === 'ja'">
@@ -64,10 +64,10 @@
       <v-row>
         <v-col>
           <v-card class="my-5">
+            <v-card-title>
+              <h3>{{ $t('welcome') }}</h3>
+            </v-card-title>
             <v-card-text>
-              <p class="display-1 text--primary text-center my-5">
-                {{ $t('welcome') }}
-              </p>
               <div class="text--primary">
                 {{ $i18n.locale == 'ja' ? introJa : introEn }}
               </div>
@@ -76,10 +76,10 @@
         </v-col>
         <v-col>
           <v-card class="my-5">
+            <v-card-title>
+              <h3>{{ $t('news') }}</h3>
+            </v-card-title>
             <v-card-text>
-              <p class="display-1 text--primary text-center my-5">
-                {{ $t('news') }}
-              </p>
               <div class="text--primary">
                 <ul>
                   <li v-for="(obj, index) in news" :key="index">
@@ -95,11 +95,10 @@
       <v-row>
         <v-col>
           <v-card class="my-5">
+            <v-card-title>
+              <h3>{{ $t('活用データ一覧') }}</h3>
+            </v-card-title>
             <v-card-text>
-              <p class="display-1 text--primary text-center my-5">
-                {{ $t('活用データ一覧') }}
-              </p>
-
               <v-simple-table>
                 <template v-slot:default>
                   <thead>
@@ -232,11 +231,10 @@
         </v-col>
         <v-col>
           <v-card class="my-5">
+            <v-card-title>
+              <h3>{{ $t('software_services') }}</h3>
+            </v-card-title>
             <v-card-text>
-              <p class="display-1 text--primary text-center my-5">
-                {{ $t('software_services') }}
-              </p>
-
               <v-simple-table>
                 <template v-slot:default>
                   <thead>
@@ -314,10 +312,10 @@
       <v-row>
         <v-col>
           <v-card class="my-5">
+            <v-card-title>
+              <h3>{{ $t('creator') }}</h3>
+            </v-card-title>
             <v-card-text>
-              <p class="display-1 text--primary text-center my-5">
-                {{ $t('creator') }}
-              </p>
               <div class="text--primary">
                 <ul>
                   <li>
@@ -345,11 +343,13 @@
 
         <v-col>
           <v-card class="my-5">
-            <v-card-text>
-              <p class="display-1 text--primary text-center my-5">
+            <v-card-title>
+              <h3>
                 {{ $t('contributor') }} <small>（所属は協力当時のもの）</small>
-              </p>
-              <div class="text-center mb-5">「青空文庫でTEI勉強会」参加者</div>
+              </h3>
+            </v-card-title>
+            <v-card-text>
+              <div class="mb-5">「青空文庫でTEI勉強会」参加者</div>
               <div class="text--primary">
                 <ul>
                   <li>王一凡 東京大学</li>
@@ -380,7 +380,7 @@
                   <li>村田祐菜 東京大学</li>
                 </ul>
               </div>
-              <div class="text-center my-5">校異源氏物語の頁数付与</div>
+              <div class="my-5">校異源氏物語の頁数付与</div>
               <div class="text--primary">
                 <ul>
                   <li>酒寄晴佳 東京大学</li>
