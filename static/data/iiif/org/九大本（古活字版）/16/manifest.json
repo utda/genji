@@ -318,44 +318,44 @@
     "viewingDirection": "right-to-left",
     "structures": [
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p1#xywh=439,78,49,666",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p1#xywh=439,78,49,666/r1",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p1"
             ],
-            "label": "源氏物語大成 p.547"
+            "label": "校異源氏物語 p.547"
         },
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p3#xywh=444,78,38,667",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p3#xywh=444,78,38,667/r2",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p3"
             ],
-            "label": "源氏物語大成 p.548"
+            "label": "校異源氏物語 p.548"
         },
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p4#xywh=70,78,38,664",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p4#xywh=70,78,38,664/r3",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p4"
             ],
-            "label": "源氏物語大成 p.549"
+            "label": "校異源氏物語 p.549"
         },
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p7#xywh=451,78,38,668",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p7#xywh=451,78,38,668/r4",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p7"
             ],
-            "label": "源氏物語大成 p.550"
+            "label": "校異源氏物語 p.550"
         },
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p9#xywh=456,78,34,668",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p9#xywh=456,78,34,668/r5",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411213/canvas/p9"
             ],
-            "label": "源氏物語大成 p.551"
+            "label": "校異源氏物語 p.551"
         }
     ]
 }

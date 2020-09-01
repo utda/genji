@@ -6,16 +6,6 @@
           <h2>
             {{ $t('iiif_genji_collection') }}
           </h2>
-          <v-spacer></v-spacer>
-          <v-btn
-            target="_blank"
-            :href="
-              'https://www.kanzaki.com/works/2016/pub/image-annotator?u=' + url
-            "
-          >
-            {{ $t('Image Annotatorでみる') }}
-            <i class="mdi mdi-open-in-new"></i>
-          </v-btn>
         </v-card-title>
 
         <v-card-text class="mt-5">
@@ -60,6 +50,22 @@
             </a>
           </template>
         </v-data-table>
+
+        <v-divider class="my-5" />
+
+        <v-card-title>
+          <v-spacer></v-spacer>
+          <v-btn
+            small
+            target="_blank"
+            :href="
+              'https://www.kanzaki.com/works/2016/pub/image-annotator?u=' + url
+            "
+          >
+            {{ $t('Image Annotatorでみる') }}
+            <i class="mdi mdi-open-in-new"></i>
+          </v-btn>
+        </v-card-title>
       </v-card>
     </v-container>
   </div>

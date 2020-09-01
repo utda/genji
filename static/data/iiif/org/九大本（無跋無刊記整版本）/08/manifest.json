@@ -698,84 +698,84 @@
     "viewingDirection": "right-to-left",
     "structures": [
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p2#xywh=586,205,52,790",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p2#xywh=586,205,52,790/r1",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p2"
             ],
-            "label": "源氏物語大成 p.269"
+            "label": "校異源氏物語 p.269"
         },
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p4#xywh=476,199,66,786",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p4#xywh=476,199,66,786/r2",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p4"
             ],
-            "label": "源氏物語大成 p.270"
+            "label": "校異源氏物語 p.270"
         },
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p6#xywh=466,193,68,786",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p6#xywh=466,193,68,786/r3",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p6"
             ],
-            "label": "源氏物語大成 p.271"
+            "label": "校異源氏物語 p.271"
         },
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p8#xywh=362,205,54,772",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p8#xywh=362,205,54,772/r4",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p8"
             ],
-            "label": "源氏物語大成 p.272"
+            "label": "校異源氏物語 p.272"
         },
         {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p12#xywh=68,183,58,806",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p12"
-            ],
-            "label": "源氏物語大成 p.274"
-        },
-        {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p14#xywh=24,165,56,810",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p14"
-            ],
-            "label": "源氏物語大成 p.275"
-        },
-        {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p17#xywh=610,183,56,794",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p17"
-            ],
-            "label": "源氏物語大成 p.276"
-        },
-        {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p19#xywh=490,183,54,788",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p19"
-            ],
-            "label": "源氏物語大成 p.277"
-        },
-        {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p21#xywh=370,213,72,780",
-            "@type": "sc:Range",
-            "canvases": [
-                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p21"
-            ],
-            "label": "源氏物語大成 p.278"
-        },
-        {
-            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p10#xywh=194,175,42,800",
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p10#xywh=194,175,42,800/r10",
             "@type": "sc:Range",
             "canvases": [
                 "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p10"
             ],
-            "label": "源氏物語大成 p.273"
+            "label": "校異源氏物語 p.273"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p12#xywh=68,183,58,806/r5",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p12"
+            ],
+            "label": "校異源氏物語 p.274"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p14#xywh=24,165,56,810/r6",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p14"
+            ],
+            "label": "校異源氏物語 p.275"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p17#xywh=610,183,56,794/r7",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p17"
+            ],
+            "label": "校異源氏物語 p.276"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p19#xywh=490,183,54,788/r8",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p19"
+            ],
+            "label": "校異源氏物語 p.277"
+        },
+        {
+            "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p21#xywh=370,213,72,780/r9",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://catalog.lib.kyushu-u.ac.jp/image/411272/canvas/p21"
+            ],
+            "label": "校異源氏物語 p.278"
         }
     ]
 }

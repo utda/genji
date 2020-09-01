@@ -2,13 +2,13 @@
   <v-footer :dark="true" class="mt-5">
     <v-container>
       <v-row>
-        <v-col>
-          <p class="text-center my-5">
-            <small>{{ $t('acknowledgement') }}</small>
+        <v-col cols="12" sm="6">
+          <p class="text-center mb-5">
+            {{ $t('acknowledgement') }}
           </p>
         </v-col>
-        <v-col>
-          <p class="my-5">
+        <v-col cols="12" sm="6">
+          <p class="mb-5">
             {{ $t('suishin') }}
             <br />digital-archive [at] lib.u-tokyo.ac.jp
           </p>

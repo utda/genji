@@ -3,11 +3,12 @@
     <div class="container">
       <v-card flat>
         <v-card-title>
-          <h2>
+          <h2 class="mb-5">
             {{ $t('browse_by_page') }} 『{{
               $t(config[this.$route.params.id].label)
             }}』<template v-if="vol != -1">（{{ vol }} {{ jo }}）</template>
           </h2>
+
           <v-spacer></v-spacer>
 
           <template v-if="vol != -1">
@@ -71,6 +72,7 @@
                 <v-btn
                   v-for="(window, index) in obj.windows"
                   :key="index"
+                  small
                   class="ma-2"
                   :href="window.url"
                   target="_blank"
@@ -91,28 +93,8 @@
           </tbody>
         </v-simple-table>
 
-        <v-card-title>
-          <v-spacer></v-spacer>
-
-          <v-btn
-            target="_blank"
-            class="ma-2"
-            small
-            :href="
-              'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=' +
-              curationUri +
-              '&mode=annotation'
-            "
-          >
-            {{ $t('Curation Viewerでみる') }}
-            <i class="mdi mdi-open-in-new"></i>
-          </v-btn>
-        </v-card-title>
-      </v-card>
-
-      <v-card v-if="Object.keys(errs).length > 0" class="mt-10" flat>
-        <v-container>
-          <h3 class="error--text">脱文・錯簡</h3>
+        <template v-if="Object.keys(errs).length > 0">
+          <h3 class="mt-10 mb-5 error--text">脱文・錯簡</h3>
 
           <v-simple-table>
             <thead>
@@ -143,7 +125,27 @@
               </template>
             </tbody>
           </v-simple-table>
-        </v-container>
+        </template>
+
+        <v-divider class="my-5" />
+
+        <v-card-title>
+          <v-spacer></v-spacer>
+
+          <v-btn
+            target="_blank"
+            class="ma-2"
+            small
+            :href="
+              'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=' +
+              curationUri +
+              '&mode=annotation'
+            "
+          >
+            {{ $t('Curation Viewerでみる') }}
+            <i class="mdi mdi-open-in-new"></i>
+          </v-btn>
+        </v-card-title>
       </v-card>
     </div>
   </div>

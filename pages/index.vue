@@ -35,12 +35,12 @@
     </v-row>
 
     <section class="mb-5">
-      <v-parallax src="assets/hero.jpg" height="600">
+      <v-parallax src="assets/hero.jpg" height="400">
         <v-layout column align-center justify-center class="white--text">
           <h1 class="white--text mb-2 display-1 text-center">
             <b>
               {{ $t('digital_genji') }}
-              <br />Ver.YUMENOUKIHASHI
+              <br /><small>Ver.YUMENOUKIHASHI</small>
             </b>
           </h1>
           <p>{{ $t('subtitle') }}</p>
@@ -56,14 +56,14 @@
     </section>
 
     <v-container>
-      <v-alert type="info" class="my-5" text prominent>
+      <v-alert type="info" class="mb-5" text prominent>
         {{ news[0].date }}:
         {{ news[0][$i18n.locale] }}
       </v-alert>
 
       <v-row>
-        <v-col>
-          <v-card class="my-5">
+        <v-col cols="12" sm="6">
+          <v-card class="mb-5">
             <v-card-title>
               <h3>{{ $t('welcome') }}</h3>
             </v-card-title>
@@ -74,8 +74,8 @@
             </v-card-text>
           </v-card>
         </v-col>
-        <v-col>
-          <v-card class="my-5">
+        <v-col cols="12" sm="6">
+          <v-card class="mb-5">
             <v-card-title>
               <h3>{{ $t('news') }}</h3>
             </v-card-title>
@@ -93,8 +93,8 @@
       </v-row>
 
       <v-row>
-        <v-col>
-          <v-card class="my-5">
+        <v-col cols="12" sm="6">
+          <v-card class="mb-5">
             <v-card-title>
               <h3>{{ $t('活用データ一覧') }}</h3>
             </v-card-title>
@@ -103,9 +103,9 @@
                 <template v-slot:default>
                   <thead>
                     <tr>
-                      <th class="text-left">資料名</th>
-                      <th class="text-left">所蔵者</th>
-                      <th class="text-left">利用条件</th>
+                      <th class="text-left" width="40%">資料名</th>
+                      <th class="text-left" width="30%">所蔵者</th>
+                      <th class="text-left" width="30%">利用条件</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -229,8 +229,8 @@
             </v-card-text>
           </v-card>
         </v-col>
-        <v-col>
-          <v-card class="my-5">
+        <v-col cols="12" sm="6">
+          <v-card class="mb-5">
             <v-card-title>
               <h3>{{ $t('software_services') }}</h3>
             </v-card-title>
@@ -310,8 +310,8 @@
       </v-row>
 
       <v-row>
-        <v-col>
-          <v-card class="my-5">
+        <v-col cols="12" sm="6">
+          <v-card class="mb-5">
             <v-card-title>
               <h3>{{ $t('creator') }}</h3>
             </v-card-title>
@@ -341,8 +341,8 @@
           </v-card>
         </v-col>
 
-        <v-col>
-          <v-card class="my-5">
+        <v-col cols="12" sm="6">
+          <v-card class="mb-5">
             <v-card-title>
               <h3>
                 {{ $t('contributor') }} <small>（所属は協力当時のもの）</small>

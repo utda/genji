@@ -4,19 +4,6 @@
       <v-card flat>
         <v-card-title>
           <h2 class="my-5">東大本・脱文錯簡リスト</h2>
-          <v-spacer></v-spacer>
-          <v-btn
-            target="_blank"
-            class="ma-2"
-            :href="
-              'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=' +
-              url +
-              '&mode=annotation'
-            "
-          >
-            {{ $t('Curation Viewerでみる') }}
-            <i class="mdi mdi-open-in-new"></i>
-          </v-btn>
         </v-card-title>
 
         <p>
@@ -47,6 +34,25 @@
             </a>
           </template>
         </v-data-table>
+
+        <v-divider class="my-5" />
+
+        <v-card-title>
+          <v-spacer></v-spacer>
+          <v-btn
+            target="_blank"
+            class="ma-2"
+            small
+            :href="
+              'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=' +
+              url +
+              '&mode=annotation'
+            "
+          >
+            {{ $t('Curation Viewerでみる') }}
+            <i class="mdi mdi-open-in-new"></i>
+          </v-btn>
+        </v-card-title>
       </v-card>
     </v-container>
   </div>
