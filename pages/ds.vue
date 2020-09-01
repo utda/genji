@@ -20,7 +20,7 @@
         </v-card-title>
 
         <p>
-          東大本の画像に『校異源氏物語』及び『新編日本古典文学全集』の頁番号を付与していく過程で、これら両書の本文との比較において、東大本に本文の脱落や錯簡（綴じ違いなどで、頁の順序が乱れていること）が起こっていると判断される箇所が複数見つかりました。以下がその一覧です。なお、該当箇所の画像にも<!-- 「脱文・錯簡あり」の-->アイコンを表示し、説明を付しています。
+          東大本の画像に『校異源氏物語』及び『新編日本古典文学全集』の頁番号を付与していく過程で、これら両書の本文との比較において、東大本に本文の脱落や錯簡（綴じ違いなどで、頁の順序が乱れていること）が起こっていると判断される箇所が複数見つかりました。以下がその一覧です。なお、該当箇所の画像にも<!-- 「脱文・錯簡あり」の-->赤色三角のアイコンを表示し、説明を付しています。
         </p>
 
         <v-data-table
@@ -90,7 +90,14 @@ export default class List extends Vue {
         for (let j = 0; j < members.length; j++) {
           const member = members[j]
 
-          const memberId = member['@id']
+          let memberId = member['@id']
+          const tmp = memberId.split('#xywh=')
+          const canvas = tmp[0]
+          const xywh = tmp[1].split(',')
+          const y = Number(xywh[1]) - 150
+          const h = Number(xywh[3]) + 150
+          memberId =
+            canvas + '#xywh=' + xywh[0] + ',' + y + ',' + xywh[2] + ',' + h
 
           const metadata = member.metadata
           const map: any = {}

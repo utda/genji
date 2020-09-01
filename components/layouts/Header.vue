@@ -27,9 +27,7 @@
         -->
 
         <v-list-item link :to="localePath({ name: 'main' })">
-          <v-list-item-action>
-            <v-icon>mdi-book-search</v-icon>
-          </v-list-item-action>
+          <v-list-item-action> </v-list-item-action>
           <v-list-item-content>
             <v-list-item-title>{{
               $t('browse_image_and_text')

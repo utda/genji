@@ -256,6 +256,15 @@ export default {
                 map[m.label] = m.value
               }
 
+              let memberId = member['@id']
+              const tmp = memberId.split('#xywh=')
+              const canvas = tmp[0]
+              const xywh = tmp[1].split(',')
+              const y = Number(xywh[1]) - 150
+              const h = Number(xywh[3]) + 150
+              memberId =
+                canvas + '#xywh=' + xywh[0] + ',' + y + ',' + xywh[2] + ',' + h
+
               errs[org].push({
                 page: map.Page,
                 description: map.Text,
@@ -267,7 +276,7 @@ export default {
                     JSON.stringify([
                       {
                         manifest: selection.within['@id'],
-                        canvas: member['@id'],
+                        canvas: memberId,
                       },
                     ])
                   ) +
@@ -291,6 +300,15 @@ export default {
               }
             }
 
+            let memberId = member['@id']
+            const tmp = memberId.split('#xywh=')
+            const canvas = tmp[0]
+            const xywh = tmp[1].split(',')
+            const y = Number(xywh[1]) - 150
+            const h = Number(xywh[3]) + 150
+            memberId =
+              canvas + '#xywh=' + xywh[0] + ',' + y + ',' + xywh[2] + ',' + h
+
             pageMap[page].windows.push({
               manifestId: selection.within['@id'],
               canvas: member['@id'],
@@ -302,7 +320,7 @@ export default {
                   JSON.stringify([
                     {
                       manifest: selection.within['@id'],
-                      canvas: member['@id'],
+                      canvas: memberId,
                     },
                   ])
                 ) +

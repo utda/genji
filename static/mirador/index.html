@@ -84,6 +84,8 @@
             obj["viewType"] = "ImageView";
             obj["bottomPanel"] = bottomPanel;
             obj["sidePanel"] = sidePanel;
+            obj["sidePanelVisible"] = false;
+            
 
             if (param.pos) {
 
@@ -153,6 +155,7 @@
               obj["viewType"] = "ImageView";
               obj["bottomPanel"] = bottomPanel;
               obj["sidePanel"] = sidePanel;
+              obj["sidePanelVisible"] = false;
 
               //var on = json["resources"][0]["on"].split("#xywh=")
               var canvas_id = json["resources"][0]["on"][0]["full"]
@@ -208,6 +211,7 @@
             obj["canvasID"] = vars["canvas"];
           }
           obj["bottomPanel"] = bottomPanel;
+          obj["sidePanelVisible"] = false;
           windowObjects.push(obj);
 
           var obj = new Object();
