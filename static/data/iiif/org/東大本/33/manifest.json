@@ -1208,6 +1208,14 @@
     "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/genji/",
     "structures": [
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p3#xywh=3284,1239,45,2535/r1",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p3"
+            ],
+            "label": "校異源氏物語 p.997"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p3#xywh=3284,1239,45,2535/r2",
             "@type": "sc:Range",
             "canvases": [
@@ -1392,6 +1400,14 @@
             "label": "新編日本古典文学全集 p.444"
         },
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p15#xywh=5466,1238,53,2573/r23",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p15"
+            ],
+            "label": "校異源氏物語 p.1007"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p15#xywh=5466,1238,53,2573/r24",
             "@type": "sc:Range",
             "canvases": [
@@ -1462,6 +1478,14 @@
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p18"
             ],
             "label": "新編日本古典文学全集 p.450"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p19#xywh=3234,1261,36,2589/r33",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p19"
+            ],
+            "label": "校異源氏物語 p.1011"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p19#xywh=3234,1261,36,2589/r34",

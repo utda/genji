@@ -996,6 +996,14 @@
     "viewingDirection": "right-to-left",
     "structures": [
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/090075d0-3e81-8414-5d57-62c516f49e47/canvas/p3#xywh=3237,1216,23,2558/r1",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/090075d0-3e81-8414-5d57-62c516f49e47/canvas/p3"
+            ],
+            "label": "校異源氏物語 p.2055"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/090075d0-3e81-8414-5d57-62c516f49e47/canvas/p3#xywh=3237,1216,23,2558/r2",
             "@type": "sc:Range",
             "canvases": [

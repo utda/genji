@@ -901,6 +901,14 @@
     "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/genji/",
     "structures": [
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4635b7fd-33a5-8caa-122e-9cf327ac92ab/canvas/p3#xywh=3274,1290,43,2525/r1",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4635b7fd-33a5-8caa-122e-9cf327ac92ab/canvas/p3"
+            ],
+            "label": "校異源氏物語 p.1429"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4635b7fd-33a5-8caa-122e-9cf327ac92ab/canvas/p3#xywh=3274,1290,43,2525/r2",
             "@type": "sc:Range",
             "canvases": [
@@ -971,6 +979,14 @@
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4635b7fd-33a5-8caa-122e-9cf327ac92ab/canvas/p7"
             ],
             "label": "新編日本古典文学全集 p.22"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4635b7fd-33a5-8caa-122e-9cf327ac92ab/canvas/p8#xywh=4826,1273,26,2544/r10",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4635b7fd-33a5-8caa-122e-9cf327ac92ab/canvas/p8"
+            ],
+            "label": "校異源氏物語 p.1433"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4635b7fd-33a5-8caa-122e-9cf327ac92ab/canvas/p8#xywh=4826,1273,26,2544/r11",

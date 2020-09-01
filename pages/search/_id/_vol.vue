@@ -168,7 +168,7 @@ export default {
       config: {
         taisei: {
           label: '校異源氏物語',
-          check: '源氏物語大成',
+          check: '校異源氏物語',
         },
         zenshu: {
           label: '新編日本古典文学全集',

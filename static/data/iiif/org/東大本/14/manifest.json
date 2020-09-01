@@ -1644,6 +1644,14 @@
     "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/genji/",
     "structures": [
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p2#xywh=3361,1258,53,2557/r1",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p2"
+            ],
+            "label": "校異源氏物語 p.483"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p2#xywh=3361,1258,53,2557/r2",
             "@type": "sc:Range",
             "canvases": [
@@ -2020,6 +2028,14 @@
             "label": "新編日本古典文学全集 p.306"
         },
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p24#xywh=5010,1242,31,2543/r47",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p24"
+            ],
+            "label": "校異源氏物語 p.503"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p24#xywh=5010,1242,31,2543/r48",
             "@type": "sc:Range",
             "canvases": [
@@ -2202,6 +2218,14 @@
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p34"
             ],
             "label": "新編日本古典文学全集 p.320"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p34#xywh=1245,1252,61,2483/r70",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p34"
+            ],
+            "label": "校異源氏物語 p.513"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e47d012e-19e0-0e31-5f80-edc931ef609f/canvas/p34#xywh=1245,1252,61,2483/r72",

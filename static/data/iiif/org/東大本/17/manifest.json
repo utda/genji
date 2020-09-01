@@ -1116,6 +1116,14 @@
     "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/genji/",
     "structures": [
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p3#xywh=3289,1315,45,2493/r1",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p3"
+            ],
+            "label": "校異源氏物語 p.557"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p3#xywh=3289,1315,45,2493/r2",
             "@type": "sc:Range",
             "canvases": [
@@ -1146,6 +1154,14 @@
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p4"
             ],
             "label": "新編日本古典文学全集 p.371"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p5#xywh=2190,1226,43,1021/r6",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p5"
+            ],
+            "label": "校異源氏物語 p.559"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p5#xywh=2190,1226,43,1021/r7",
@@ -1290,6 +1306,14 @@
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p14"
             ],
             "label": "新編日本古典文学全集 p.382"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p15#xywh=5496,1273,48,2522/r23",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p15"
+            ],
+            "label": "校異源氏物語 p.567"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dde16b8e-72c3-8a66-7577-c62854cd4337/canvas/p15#xywh=5496,1273,48,2522/r24",

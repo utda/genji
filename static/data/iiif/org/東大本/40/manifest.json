@@ -1073,6 +1073,14 @@
     "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/genji/",
     "structures": [
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p3#xywh=3313,1252,51,2502/r1",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p3"
+            ],
+            "label": "校異源氏物語 p.1381"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p3#xywh=3313,1252,51,2502/r2",
             "@type": "sc:Range",
             "canvases": [
@@ -1209,6 +1217,14 @@
             "label": "新編日本古典文学全集 p.502"
         },
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p11#xywh=4861,1203,31,2509/r17",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p11"
+            ],
+            "label": "校異源氏物語 p.1389"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p11#xywh=4861,1203,31,2509/r18",
             "@type": "sc:Range",
             "canvases": [
@@ -1295,6 +1311,14 @@
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p15"
             ],
             "label": "新編日本古典文学全集 p.509"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p16#xywh=1969,1211,33,2572/r29",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p16"
+            ],
+            "label": "校異源氏物語 p.1394"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8bfc069b-9a26-787a-42ae-7e6dc24478fd/canvas/p16#xywh=1969,1211,33,2572/r30",

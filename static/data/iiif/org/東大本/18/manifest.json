@@ -1202,6 +1202,14 @@
     "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/genji/",
     "structures": [
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p3#xywh=3363,1249,38,2509/r1",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p3"
+            ],
+            "label": "校異源氏物語 p.579"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p3#xywh=3363,1249,38,2509/r2",
             "@type": "sc:Range",
             "canvases": [
@@ -1474,6 +1482,14 @@
             "label": "校異源氏物語 p.593"
         },
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p20#xywh=2398,1249,31,2528/r32",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p20"
+            ],
+            "label": "校異源氏物語 p.594"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p20#xywh=2398,1249,31,2528/r35",
             "@type": "sc:Range",
             "canvases": [
@@ -1488,6 +1504,14 @@
                 "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p20"
             ],
             "label": "脱文・錯簡"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p21#xywh=2840,1220,36,2607/r36",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p21"
+            ],
+            "label": "校異源氏物語 p.595"
         },
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p21#xywh=2840,1220,36,2607/r37",

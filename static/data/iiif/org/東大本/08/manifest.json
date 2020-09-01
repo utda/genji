@@ -729,6 +729,14 @@
     "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/genji/",
     "structures": [
         {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3d12c86-409c-2980-0574-a1d292eb60ab/canvas/p3#xywh=3259,1268,36,2556/r1",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3d12c86-409c-2980-0574-a1d292eb60ab/canvas/p3"
+            ],
+            "label": "校異源氏物語 p.269"
+        },
+        {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3d12c86-409c-2980-0574-a1d292eb60ab/canvas/p3#xywh=3259,1268,36,2556/r2",
             "@type": "sc:Range",
             "canvases": [
