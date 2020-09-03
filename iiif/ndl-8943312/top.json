@@ -1,0 +1,441 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://utda.github.io/genji/iiif/ndl-8943312/top.json",
+    "@type": "sc:Collection",
+    "label": "[源氏物語] 54巻",
+    "vhint": "use-thumb",
+    "manifests": [
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943175/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 1",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943175/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943176/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 2",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943176/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943177/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 3",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943177/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943178/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 4",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943178/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943179/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 5",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943179/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943180/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 6",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943180/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943181/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 7",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943181/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943182/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 8",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943182/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943183/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 9",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943183/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943184/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 10",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943184/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943185/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 11",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943185/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943186/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 12",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943186/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943187/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 13",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943187/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943188/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 14",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943188/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943189/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 15",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943189/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943190/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 16",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943190/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943191/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 17",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943191/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943192/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 18",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943192/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943193/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 19",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943193/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943194/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 20",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943194/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943195/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 21",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943195/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943196/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 22",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943196/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943197/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 23",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943197/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943198/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 24",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943198/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943199/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 25",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943199/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943200/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 26",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943200/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943201/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 27",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943201/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943202/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 28",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943202/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943203/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 29",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943203/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943204/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 30",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943204/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943205/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 31",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943205/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943206/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 32",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943206/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943207/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 33",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943207/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943208/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 34",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943208/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943209/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 35",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943209/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943210/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 36",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943210/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943211/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 37",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943211/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943212/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 38",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943212/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943213/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 39",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943213/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943214/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 40",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943214/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943215/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 41",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943215/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943216/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 42",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943216/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943217/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 43",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943217/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943218/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 44",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943218/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943219/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 45",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943219/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943220/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 46",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943220/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943221/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 47",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943221/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943222/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 48",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943222/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943223/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 49",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943223/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943224/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 50",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943224/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943225/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 51",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943225/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943226/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 52",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943226/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943227/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 53",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943227/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/8943228/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "[源氏物語] 54巻. 54",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/8943228/T0000001/full/full/0/default.jpg"
+        }
+    ]
+}

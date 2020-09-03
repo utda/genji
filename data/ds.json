@@ -1,0 +1,319 @@
+{
+  "@context": [
+    "http://iiif.io/api/presentation/2/context.json",
+    "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+  ],
+  "@id": "https://mp.ex.nii.ac.jp/api/curation/json/3a9d5acf-550d-44c5-baf5-95da67207646",
+  "@type": "cr:Curation",
+  "label": "東大本・脱文錯簡リスト",
+  "selections": [
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/3a9d5acf-550d-44c5-baf5-95da67207646/range1",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0590814b-938f-0f7d-4984-a6d74cce6f5f/canvas/p13#xywh=3424,824,1592,3848",
+          "@type": "sc:Canvas",
+          "label": "[13]",
+          "description": "",
+          "metadata" : [
+            {
+              "label" : "Vol",
+              "value" : "10"
+            },
+            {
+              "label" : "Title",
+              "value" : "龍眼木（賢木）"
+            },
+            {
+              "label" : "Page",
+              "value" : "13"
+            },
+            {
+              "label" : "Text",
+              "value" : "右4行目「ふりすゝてけふはゆくともすゝか川やそせの浪に袖はぬれじや」に対する源氏の返歌は本来「すゝか河やそせの波にぬれぬれすいせまてたれかおもひをこせん」であるが、東大本では次の歌「行かたをなかめもやらんこの秋は相坂山をきりなへたてそ」に飛んで、この歌を返歌とする。<br/>なお、脱文箇所には貼紙により本文が補記されている。"
+            },
+            {
+              "label" : "Type",
+              "value" : "脱文"
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0590814b-938f-0f7d-4984-a6d74cce6f5f/manifest",
+        "@type": "sc:Manifest",
+        "label": "龍眼木（賢木 , 榊）"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/3a9d5acf-550d-44c5-baf5-95da67207646/range2",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/canvas/p20#xywh=2288,1112,248,2808",
+          "@type": "sc:Canvas",
+          "label": "[20]",
+          "description": "",
+          "metadata" : [
+            {
+              "label" : "Vol",
+              "value" : "18"
+            },
+            {
+              "label" : "Title",
+              "value" : "松風"
+            },
+            {
+              "label" : "Page",
+              "value" : "20"
+            },
+            {
+              "label" : "Text",
+              "value" : "左5行目「こまやかにかたらひまいりぬ。いとよそおしうさしあゆみ…」の箇所は、「かたらひ」と「まいりぬ」の間は本来「こまやかにかたらひたまふ…」となるのが通常。"
+            },
+            {
+              "label" : "Type",
+              "value" : "脱文"
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e0158397-9aa3-2fa3-2976-1f999cf96bf2/manifest",
+        "@type": "sc:Manifest",
+        "label": "松風"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/3a9d5acf-550d-44c5-baf5-95da67207646/range3",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/02e45c9c-8003-017b-4e63-0c8919ca36a2/canvas/p15#xywh=2768,1136,240,2832",
+          "@type": "sc:Canvas",
+          "label": "[15]",
+          "description": "",
+          "metadata" : [
+            {
+              "label" : "Vol",
+              "value" : "30"
+            },
+            {
+              "label" : "Title",
+              "value" : "蘭（藤袴）"
+            },
+            {
+              "label" : "Page",
+              "value" : "15"
+            },
+            {
+              "label" : "Text",
+              "value" : "左3行目「をのつからさのみは侍らじと」の後は本来「きこゆるもさることなれば」と続くが東大本には該当する文章がなく、続く4行目の途中までが異文。"
+            },
+            {
+              "label" : "Type",
+              "value" : "脱文"
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/02e45c9c-8003-017b-4e63-0c8919ca36a2/manifest",
+        "@type": "sc:Manifest",
+        "label": "蘭（藤袴）"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/3a9d5acf-550d-44c5-baf5-95da67207646/range4",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61bacd20-50ae-6ff0-0740-3c1c50da76dd/canvas/p42#xywh=3224,1144,232,2856",
+          "@type": "sc:Canvas",
+          "label": "[42]",
+          "description": "",
+          "metadata" : [
+            {
+              "label" : "Vol",
+              "value" : "31"
+            },
+            {
+              "label" : "Title",
+              "value" : "真木柱"
+            },
+            {
+              "label" : "Page",
+              "value" : "42"
+            },
+            {
+              "label" : "Text",
+              "value" : "左1行目以降巻末までが、本来は巻33「藤裏葉」の巻末に該当する。<br/>また、42コマ右最終行は「真木柱」の最後の部分だが、「いそつたいせすとてはしたなかめりとや」の一文が脱落している。"
+            },
+            {
+              "label" : "Type",
+              "value" : "錯簡・脱文"
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61bacd20-50ae-6ff0-0740-3c1c50da76dd/manifest",
+        "@type": "sc:Manifest",
+        "label": "真木柱"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/3a9d5acf-550d-44c5-baf5-95da67207646/range5",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/canvas/p26#xywh=3512,1104,272,2864",
+          "@type": "sc:Canvas",
+          "label": "[26]",
+          "description": "",
+          "metadata" : [
+            {
+              "label" : "Vol",
+              "value" : "33"
+            },
+            {
+              "label" : "Title",
+              "value" : "藤裏葉"
+            },
+            {
+              "label" : "Page",
+              "value" : "26以降"
+            },
+            {
+              "label" : "Text",
+              "value" : "巻31「真木柱」42コマ左に続く。"
+            },
+            {
+              "label" : "Type",
+              "value" : "錯簡"
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5af16d8a-9e37-3866-38fa-e20fe1060f4a/manifest",
+        "@type": "sc:Manifest",
+        "label": "藤裏葉"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/3a9d5acf-550d-44c5-baf5-95da67207646/range6",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/685c84c5-2eb7-2852-7073-d73670157aeb/canvas/p63#xywh=5648,1112,240,2784",
+          "@type": "sc:Canvas",
+          "label": "[63]",
+          "description": "",
+          "metadata" : [
+            {
+              "label" : "Vol",
+              "value" : "35"
+            },
+            {
+              "label" : "Title",
+              "value" : "若菜 下"
+            },
+            {
+              "label" : "Page",
+              "value" : "63"
+            },
+            {
+              "label" : "Text",
+              "value" : "右1行目「身にかへて」と「しるとそ思ひける卯（四）月十よか斗」の間に本来なら入るはずの文章が脱落している。"
+            },
+            {
+              "label" : "Type",
+              "value" : "脱文"
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/685c84c5-2eb7-2852-7073-d73670157aeb/manifest",
+        "@type": "sc:Manifest",
+        "label": "若菜　下"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/3a9d5acf-550d-44c5-baf5-95da67207646/range7",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5c412f9d-0220-8f63-64ae-ca93a2328b20/canvas/p51#xywh=1456,1112,240,2888",
+          "@type": "sc:Canvas",
+          "label": "[51]",
+          "description": "",
+          "metadata" : [
+            {
+              "label" : "Vol",
+              "value" : "49"
+            },
+            {
+              "label" : "Title",
+              "value" : "寄生（宿木）"
+            },
+            {
+              "label" : "Page",
+              "value" : "51"
+            },
+            {
+              "label" : "Text",
+              "value" : "左9行目「見くるしきを」と「給はむ」の間に本来なら入るはずの文章が脱落している。"
+            },
+            {
+              "label" : "Type",
+              "value" : "脱文"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5c412f9d-0220-8f63-64ae-ca93a2328b20/canvas/p59#xywh=5544,1144,304,2848",
+          "@type": "sc:Canvas",
+          "label": "[59]",
+          "description": "",
+          "metadata" : [
+            {
+              "label" : "Vol",
+              "value" : "49"
+            },
+            {
+              "label" : "Title",
+              "value" : "寄生（宿木）"
+            },
+            {
+              "label" : "Page",
+              "value" : "59"
+            },
+            {
+              "label" : "Text",
+              "value" : "右1行目「夜もふけぬれば」以降、右5行目「おほかたの世の」までの間に脱文・異文あり。"
+            },
+            {
+              "label" : "Type",
+              "value" : "脱文"
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5c412f9d-0220-8f63-64ae-ca93a2328b20/manifest",
+        "@type": "sc:Manifest",
+        "label": "寄生"
+      }
+    }
+  ]
+}

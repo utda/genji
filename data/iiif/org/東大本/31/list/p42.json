@@ -1,0 +1,38 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://utda.github.io/genji/data/iiif/org/東大本/31/list/p42.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/31/list/p42.json#1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61bacd20-50ae-6ff0-0740-3c1c50da76dd/canvas/p42",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3224,1144,232,2856"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3340 1056 l-50 87 l100 0 z\" id=\"pin_abc3\" fill-opacity=\"0.5\" fill=\"#FF0000\" stroke=\"#FF0000\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "錯簡・脱文<p>左1行目以降巻末までが、本来は巻33「藤裏葉」の巻末に該当する。<br/>また、42コマ右最終行は「真木柱」の最後の部分だが、「いそつたいせすとてはしたなかめりとや」の一文が脱落している。</p><p><a href=\"https://utda.github.io/genji/ds\" target=\"_blank\" rel=\"noopener noreferrer\">脱文錯簡リスト</p>",
+                "format": "text/html"
+            }
+        }
+    ]
+}

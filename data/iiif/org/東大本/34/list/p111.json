@@ -1,0 +1,38 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://utda.github.io/genji/data/iiif/org/東大本/34/list/p111.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/34/list/p111.json#1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da6f3be9-1a2c-7704-a780-b3742840a71f/canvas/p111",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3993,1289,23,1776"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4004,1212c0,-22 11,-44 33,-66c0,-22 -11,-33 -33,-33c-22,0 -33,11 -33,33c22,22 33,44 33,66z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#2E89D9\" stroke=\"#2E89D9\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "新編日本古典文学全集 p.150 開始位置<p><a href=\"https://japanknowledge.com/lib/display/?lid=80110V00230150\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンナレッジ</a>でみる</p>",
+                "format": "text/html"
+            }
+        }
+    ]
+}

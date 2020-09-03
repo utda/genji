@@ -1,0 +1,1143 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://utda.github.io/genji/data/vol/25/curation.json",
+    "@type": "cr:Curation",
+    "label": "蛍",
+    "selections": [
+        {
+            "@id": "https://utda.github.io/genji/data/vol/25/curation.json#校異源氏物語",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/7#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.805",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0805-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/8#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.806",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0806-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/8#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.807",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0807-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/9#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.808",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0808-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/9#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.809",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0809-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/10#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.810",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0810-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/10#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.811",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0811-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/11#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.812",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0812-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/11#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.813",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0813-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/12#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.814",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0814-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/12#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.815",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0815-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/13#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.816",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0816-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/13#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.817",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0817-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/14#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.818",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0818-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/14#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.819",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0819-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/15#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.820",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0820-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/15#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.821",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0821-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/16#xywh=3445,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.822",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0822-01.json"
+                },
+                {
+                    "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/canvas/16#xywh=0,0,3445,4706",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.823",
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0823-01.json"
+                }
+            ],
+            "within": {
+                "@id": "https://www.dl.ndl.go.jp/api/iiif/3437688/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "校異源氏物語"
+            }
+        },
+        {
+            "@id": "https://utda.github.io/genji/data/vol/25/curation.json#東大本",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p3#xywh=3306,1239,66,2560",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.805",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.805"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0805-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p3#xywh=3306,1239,66,2560",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.195",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.195"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p4#xywh=2408,1265,36,2445",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.806",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.806"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0806-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p4#xywh=5037,1257,61,2516",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.196",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.196"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p5#xywh=1952,1274,38,2563",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.807",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.807"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0807-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p5#xywh=5717,1302,40,2490",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.197",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.197"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p5#xywh=1952,1274,38,2563",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.198",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.198"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p7#xywh=5724,1229,33,2563",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.808",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.808"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0808-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p7#xywh=3916,1216,43,2617",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.200",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.200"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p8#xywh=4568,1251,44,2604",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.809",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.809"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0809-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p8#xywh=4129,1261,36,2502",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.201",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.201"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p9#xywh=4122,1273,51,2446",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.810",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.810"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0810-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p9#xywh=4802,1267,68,2503",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.202",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.202"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p10#xywh=3063,1280,51,2538",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.811",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.811"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0811-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p10#xywh=5466,1254,63,2525",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.203",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.203"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p11#xywh=2388,1255,31,2512",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.812",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.812"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0812-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p11#xywh=5704,1283,56,2502",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.204",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.204"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p11#xywh=2388,1255,31,2512",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.205",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.205"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p12#xywh=1714,1169,40,2560",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.813",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.813"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0813-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p12#xywh=3058,1185,33,2420",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.206",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.206"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p14#xywh=5476,1210,41,2541",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.814",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.814"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0814-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p14#xywh=4348,1286,48,2442",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.208",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.208"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p15#xywh=4782,1451,38,2300",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.815",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.815"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0815-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p15#xywh=4782,1451,38,2300",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.209",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.209"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p15#xywh=1927,1255,43,2550",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.210",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.210"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p16#xywh=4348,1251,50,2557",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.816",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.816"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0816-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p16#xywh=2602,1230,48,2572",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.211",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.211"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p17#xywh=3251,1226,93,2551",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.817",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.817"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0817-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p17#xywh=2825,1271,53,2493",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.212",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.212"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p18#xywh=2133,1287,55,2474",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.818",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.818"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0818-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p18#xywh=3041,1284,28,2537",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.213",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.213"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p19#xywh=1235,1249,43,2563",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.819",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.819"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0819-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p19#xywh=2133,1274,36,1344",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.214",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.214"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p21#xywh=5002,1251,66,2515",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.820",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.820"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0820-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p21#xywh=4544,1238,63,2528",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.216",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.216"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p22#xywh=3876,1226,39,2544",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.821",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.821"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0821-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p22#xywh=4985,1223,58,2588",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.217",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.217"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p23#xywh=2999,1274,35,2528",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.822",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.822"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0822-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p23#xywh=5228,1245,56,2506",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.218",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.218"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p23#xywh=1230,1325,28,2420",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.219",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.219"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p24#xywh=2108,1261,61,2560",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.823",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.823"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0823-01.json"
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p24#xywh=1672,1261,43,2493",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.220",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.220"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p6#xywh=2398,1280,58,2567",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.199",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.199"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p13#xywh=2378,1230,29,2524",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.207",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.207"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7cd728a-6f1d-a2da-6091-92342b148f1f/canvas/p20#xywh=4345,1264,33,2534",
+                    "@type": "sc:Canvas",
+                    "label": "新編日本古典文学全集 p.215",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "新編日本古典文学全集 p.215"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://utda.github.io/genji/data/iiif/org/東大本/25/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "東大本"
+            }
+        },
+        {
+            "@id": "https://utda.github.io/genji/data/vol/25/curation.json#九大本（古活字版）",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p1#xywh=451,79,38,664",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.805",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.805"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0805-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p3#xywh=453,79,37,669",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.806",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.806"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0806-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p5#xywh=456,78,38,667",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.807",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.807"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0807-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p7#xywh=457,78,38,666",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.808",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.808"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0808-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p9#xywh=415,78,38,669",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.809",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.809"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0809-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p11#xywh=415,78,37,668",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.810",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.810"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0810-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p13#xywh=412,78,34,667",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.811",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.811"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0811-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p15#xywh=363,78,38,664",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.812",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.812"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0812-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p17#xywh=376,78,38,663",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.813",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.813"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0813-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p19#xywh=323,78,38,663",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.814",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.814"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0814-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p21#xywh=320,78,38,663",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.815",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.815"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0815-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p23#xywh=325,78,37,662",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.816",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.816"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0816-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p25#xywh=280,78,38,663",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.817",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.817"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0817-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p27#xywh=233,78,38,663",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.818",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.818"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0818-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p29#xywh=190,78,37,666",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.819",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.819"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0819-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p31#xywh=143,78,38,663",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.820",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.820"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0820-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p33#xywh=106,78,33,666",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.821",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.821"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0821-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p35#xywh=70,78,37,660",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.822",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.822"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0822-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411226/canvas/p37#xywh=70,78,37,663",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.823",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.823"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0823-01.json"
+                }
+            ],
+            "within": {
+                "@id": "https://utda.github.io/genji/data/iiif/org/九大本（古活字版）/25/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "九大本（古活字版）"
+            }
+        },
+        {
+            "@id": "https://utda.github.io/genji/data/vol/25/curation.json#九大本（無跋無刊記整版本）",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p2#xywh=598,176,42,850",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.805",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.805"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0805-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p4#xywh=544,176,42,840",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.806",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.806"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0806-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p6#xywh=487,176,42,844",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.807",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.807"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0807-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p8#xywh=372,176,42,848",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.808",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.808"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0808-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p10#xywh=248,176,42,846",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.809",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.809"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0809-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p12#xywh=250,176,42,844",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.810",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.810"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0810-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p14#xywh=134,176,38,848",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.811",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.811"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0811-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p16#xywh=22,176,42,836",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.812",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.812"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0812-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p19#xywh=684,176,42,850",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.813",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.813"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0813-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p21#xywh=512,176,42,848",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.814",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.814"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0814-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p23#xywh=470,176,42,844",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.815",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.815"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0815-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p25#xywh=346,176,42,842",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.816",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.816"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0816-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p27#xywh=276,176,42,846",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.817",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.817"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0817-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p29#xywh=118,176,42,846",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.818",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.818"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0818-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p32#xywh=592,176,42,836",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.819",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.819"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0819-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p34#xywh=530,176,42,846",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.820",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.820"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0820-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p36#xywh=366,176,38,840",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.821",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.821"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0821-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p38#xywh=372,176,42,842",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.822",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.822"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0822-01.json"
+                },
+                {
+                    "@id": "https://catalog.lib.kyushu-u.ac.jp/image/411289/canvas/p40#xywh=254,176,42,844",
+                    "@type": "sc:Canvas",
+                    "label": "校異源氏物語 p.823",
+                    "metadata": [
+                        {
+                            "label": "Page",
+                            "value": "校異源氏物語 p.823"
+                        }
+                    ],
+                    "lineId": "https://w3id.org/kouigenjimonogatari/data/0823-01.json"
+                }
+            ],
+            "within": {
+                "@id": "https://utda.github.io/genji/data/iiif/org/九大本（無跋無刊記整版本）/25/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "九大本（無跋無刊記整版本）"
+            }
+        }
+    ]
+}

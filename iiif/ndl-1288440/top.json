@@ -1,0 +1,441 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://utda.github.io/genji/iiif/ndl-1288440/top.json",
+    "@type": "sc:Collection",
+    "label": "〔源氏物語〕　５４巻",
+    "vhint": "use-thumb",
+    "manifests": [
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288276/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 桐つほ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288276/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288277/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. はゝき木",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288277/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288278/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. うつせみ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288278/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288279/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 夕かほ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288279/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288280/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. わかむらさき",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288280/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288281/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. すゑつむ花",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288281/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288282/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. もみちの賀",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288282/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288283/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 花のえむ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288283/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288284/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. あふひ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288284/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288285/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. さか木",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288285/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288286/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. はなちる里",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288286/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288287/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. すま",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288287/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288288/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. あかし",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288288/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288289/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 身をつくし",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288289/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288290/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. よもきふ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288290/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288291/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. せきや",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288291/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288292/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. ゑあはせ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288292/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288293/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. まつかせ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288293/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288294/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. うす雲",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288294/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288295/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 朝かほ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288295/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288296/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. をとめ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288296/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288297/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 玉かつら",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288297/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288298/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. はつね",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288298/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288299/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. こてふ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288299/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288300/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. ほたる",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288300/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288301/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. とこ夏",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288301/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288302/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. かゝりひ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288302/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288303/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 野わき",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288303/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288304/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. みゆき",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288304/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288305/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 藤はかま",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288305/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288306/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. まきはしら",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288306/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288307/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. むめかえ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288307/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288308/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. ふちのうら葉",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288308/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288309/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. わかな　上",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288309/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288310/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. わかな　下",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288310/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288311/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. かしはき",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288311/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288312/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. よこ笛",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288312/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288313/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. すゝむし",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288313/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288314/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. ゆふきり",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288314/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288315/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. みのり",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288315/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288316/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. まほろし",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288316/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288317/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. にほふ宮",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288317/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288318/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 紅梅",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288318/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288319/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. たけ河",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288319/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288320/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. はし姫",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288320/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1286997/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. しゐかもと",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1286997/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288321/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. あけまき",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288321/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288322/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. さわらひ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288322/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288323/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. やとりき",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288323/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288324/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. あつまや",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288324/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288325/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. うき船",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288325/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288326/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. かけろふ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288326/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288327/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. てならひ",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288327/T0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1288328/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "国立国会図書館 National Diet Library, JAPAN",
+            "label": "〔源氏物語〕. 夢のうき橋",
+            "license": "https://dl.ndl.go.jp/ja/iiif_license.html",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1288328/T0000001/full/full/0/default.jpg"
+        }
+    ]
+}

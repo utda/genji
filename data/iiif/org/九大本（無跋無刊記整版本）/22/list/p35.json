@@ -1,0 +1,38 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://utda.github.io/genji/data/iiif/org/九大本（無跋無刊記整版本）/22/list/p35.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "https://utda.github.io/genji/data/iiif/org/九大本（無跋無刊記整版本）/22/list/p35.json#1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://catalog.lib.kyushu-u.ac.jp/image/411286/canvas/p35",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=329,176,42,820"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M350,157c0,-10 5,-20 15,-30c0,-10 -5,-15 -15,-15c-10,0 -15,5 -15,15c10,10 15,20 15,30z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#f38200\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437687/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "校異源氏物語 p.735 開始位置<p><a href=\"http://dl.ndl.go.jp/info:ndljp/pid/3437687/177\" target=\"_blank\" rel=\"noopener noreferrer\">国立国会図書館デジタルコレクション</a>でみる</p>",
+                "format": "text/html"
+            }
+        }
+    ]
+}

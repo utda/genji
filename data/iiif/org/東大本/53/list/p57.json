@@ -1,0 +1,100 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://utda.github.io/genji/data/iiif/org/東大本/53/list/p57.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/53/list/p57.json#1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7e106aaa-9967-660f-2df0-80afe14e35b3/canvas/p57",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3031,1242,35,2560"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3048,1226c0,-34 17,-68 51,-102c0,-34 -17,-51 -51,-51c-34,0 -51,17 -51,51c34,34 51,68 51,102z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#F3AA00\" stroke=\"#f38200\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437690/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "校異源氏物語 p.2040 開始位置<p><a href=\"http://dl.ndl.go.jp/info:ndljp/pid/3437690/189\" target=\"_blank\" rel=\"noopener noreferrer\">国立国会図書館デジタルコレクション</a>でみる</p>",
+                "format": "text/html"
+            }
+        },
+        {
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/53/list/p57.json#2",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7e106aaa-9967-660f-2df0-80afe14e35b3/canvas/p57",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4742,1238,28,2570"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4756,1123c0,-34 17,-68 51,-102c0,-34 -17,-51 -51,-51c-34,0 -51,17 -51,51c34,34 51,68 51,102z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#2E89D9\" stroke=\"#2E89D9\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437690/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "新編日本古典文学全集 p.353 開始位置<p><a href=\"https://japanknowledge.com/lib/display/?lid=80110V00250353\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンナレッジ</a>でみる</p>",
+                "format": "text/html"
+            }
+        },
+        {
+            "@id": "https://utda.github.io/genji/data/iiif/org/東大本/53/list/p57.json#3",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "full": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7e106aaa-9967-660f-2df0-80afe14e35b3/canvas/p57",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1471,1236,45,2563"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1493,1114c0,-34 17,-68 51,-102c0,-34 -17,-51 -51,-51c-34,0 -51,17 -51,51c34,34 51,68 51,102z\" id=\"pin_abc\" fill-opacity=\"0.5\" fill=\"#2E89D9\" stroke=\"#2E89D9\"/></svg>"
+                        }
+                    },
+                    "within": {
+                        "@id": "https://www.dl.ndl.go.jp/api/iiif/3437690/manifest.json",
+                        "@type": "sc:Manifest"
+                    }
+                }
+            ],
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "新編日本古典文学全集 p.354 開始位置<p><a href=\"https://japanknowledge.com/lib/display/?lid=80110V00250354\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンナレッジ</a>でみる</p>",
+                "format": "text/html"
+            }
+        }
+    ]
+}
